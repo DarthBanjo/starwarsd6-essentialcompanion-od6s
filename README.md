@@ -1,5 +1,6 @@
 # StarWarsREUP_FoundryVTT
 A Foundry VTT module adding Star Wars D6 Skills from the community-sourced REUP rulebook.
+This builds on the OpenD6 Space System, and that system is required for these to work properly. 
 
 Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
 
