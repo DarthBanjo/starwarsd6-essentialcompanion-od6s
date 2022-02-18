@@ -22,6 +22,6 @@
             "type": "Item"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
     "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
   }
