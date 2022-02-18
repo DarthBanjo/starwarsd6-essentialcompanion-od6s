@@ -1,60 +1,25 @@
 {
-    "name": "my-content-module",
-    "title": "My Content Module",
-    "description": "A collection of my content.",
+    "name": "StarWarsD6_REUP_FoundryVTT",
+    "title": "Star Wars D6 REUP Content",
+    "description": "A collection of Star Wars D6 2nd Edition Revised and Expanded content.",
     "version": "1.0.0",
-    "author": "Me",
+    "author": "Darth Banjo",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "packs": [
         {
-            "name": "module-creatures",
-            "label": "Module Creatures",
-            "path": "./packs/creatures.db",
-            "entity": "Actor",
-            "type": "Actor"
-        },
-        {
-            "name": "module-items",
-            "label": "Module Items",
-            "path": "./packs/items.db",
+            "name": "module-reupskills",
+            "label": "Star Wars D6 Skills",
+            "path": "./packs/reupskills.db",
             "entity": "Item",
             "type": "Item"
         },
         {
-            "name": "module-scenes",
-            "label": "Module Scenes",
-            "path": "./packs/scenes.db",
-            "entity": "Scene",
-            "type": "Scene"
-        },
-        {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
-            "path": "./packs/journal-entries.db",
-            "entity": "JournalEntry",
-            "type": "JournalEntry"
-        },
-        {
-            "name": "module-macros",
-            "label": "Module Macros",
-            "path": "./packs/macros.db",
-            "entity": "Macro",
-            "type": "Macro"
-        },
-        {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
-            "path": "./packs/roll-tables.db",
-            "entity": "RollTable",
-            "type": "RollTable"
-        },
-        {
-            "name": "module-playlists",
-            "label": "Module Playlists",
-            "path": "./packs/playlists.db",
-            "entity": "Playlist",
-            "type": "Playlist"
+            "name": "module-advskills",
+            "label": "Star Wars D6 Advanced Skills",
+            "path": "./packs/advskills.db",
+            "entity": "Item",
+            "type": "Item"
         }
     ],
     "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
