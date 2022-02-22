@@ -1,48 +1,44 @@
 {
-    "name": "StarWarsD6_REUP_FoundryVTT",
-    "title": "Star Wars D6 REUP Content",
-    "description": "A collection of Star Wars D6 2nd Edition Revised and Expanded content.",
-    "version": "1.1.0",
-    "author": "Darth Banjo",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
-    "packs": [
-        {
-            "name": "module-reupskills",
-            "label": "Star Wars D6 Skills",
-            "path": "./packs/reupskills.db",
-            "entity": "Item",
-            "type": "Item"
-        },
-        {
-            "name": "module-advskills",
-            "label": "Star Wars D6 Advanced Skills",
-            "path": "./packs/advskills.db",
-            "entity": "Item",
-            "type": "Item"
-        }
-        {
-            "name": "module-force",
-            "label": "Star Wars D6 Force Compendium Pack",
-            "path": "./packs/theforce.db",
-            "entity": "Item",
-            "type": "Item"
-        }
-        {
-            "name": "module-gear",
-            "label": "Star Wars D6 Equipment Pack",
-            "path": "./packs/equips.db",
-            "entity": "Item",
-            "type": "Item"
-        }
-        {
-            "name": "module-weapons",
-            "label": "Star Wars D6 Weapon Pack",
-            "path": "./packs/weapons.db",
-            "entity": "Item",
-            "type": "Item"
-        }
-    ],
-    "manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
-    "download": "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/archive/refs/heads/main.zip"
-  }
+	"name": "StarWarsD6_REUP_FoundryVTT",
+	"title": "Star Wars D6 REUP Content",
+	"description": "A collection of Star Wars D6 2nd Edition Revised and Expanded content.",
+	"version": "1.1.1",
+	"author": "Darth Banjo",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "9",
+	"packs": [{
+			"name": "module-reupskills",
+			"label": "Star Wars D6 Skills",
+			"path": "./packs/reupskills.db",
+			"entity": "Item",
+			"type": "Item"
+		},
+		{
+			"name": "module-advskills",
+			"label": "Star Wars D6 Advanced Skills",
+			"path": "./packs/advskills.db",
+			"entity": "Item",
+			"type": "Item"
+		}, {
+			"name": "module-force",
+			"label": "Star Wars D6 Force Compendium Pack",
+			"path": "./packs/theforce.db",
+			"entity": "Item",
+			"type": "Item"
+		}, {
+			"name": "module-gear",
+			"label": "Star Wars D6 Equipment Pack",
+			"path": "./packs/equips.db",
+			"entity": "Item",
+			"type": "Item"
+		}, {
+			"name": "module-weapons",
+			"label": "Star Wars D6 Weapon Pack",
+			"path": "./packs/weapons.db",
+			"entity": "Item",
+			"type": "Item"
+		}
+	],
+	"manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
+	"download": "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/archive/refs/heads/main.zip"
+}
