@@ -48,7 +48,7 @@ Some of these Packs contain icons for various skills, powers, and/or equipment. 
       - Change Rules Options:
         - Use Wound levels
         - Optional Damage: :white_large_square:
-        - Hide advantages/disadvantages :white_check_mark
+        - Hide advantages/disadvantages :white_check_mark:
         - Brawling Attribute: STR or DEX, depending on GM preference
         - Melee/Brawling Parry Skill
 
