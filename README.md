@@ -19,12 +19,38 @@ All references to the Star Wars, Expanded Universe, or any of the Star Wars film
 ######  Graphics:
 Some of these Packs contain icons for various skills, powers, and/or equipment. At the time of this writing, they are svg icons created by DarthBanjo. The aurebesh font made by Pixel Saga might be used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution. 
 
-# Notes for setting up D6 Space to host a Star Wars D6 game:
+# \*Notes for setting up D6 Space to host a Star Wars D6 game:
 - Under Game Settings > Configure Settings
   - Modify System Settings
      - Change custom labels:
-      - 
-
+        - Fate Points: Force Points
+        - Short Name Fate Points: Force Points
+        - Customize 'use a fate point?': Use a force point?
+        - Currency: Credits
+        - Vehicle Toughness: Body Strength
+        - Starship Toughness: Hull
+        - Manifestations Name: Force Powers
+        - Manifestation singular: Force Power
+        - Metaphysics name: The Force
+        - Metaphysics abbrevation: The Force
+        - Metaphysics extranormal: Force Sensitive
+        - Agility: Dexterity
+        - Agi: DEX
+        - Str: STR
+        - Mec: MEC
+        - Kno: KNO
+        - Per: PER
+        - Tec: TEC
+      - Change Custom Fields:
+        - Character Sheet Field 1: Dark Side Points
+        - Short Name Custom Field 1: Dark Side Points
+        - Custom Field 1 Type: Number
+      - Change Rules Options:
+        - Use Wound levels
+        - Optional Damage: :white_large_square:
+        - Hide advantages/disadvantages :white_check_mark
+        - Brawling Attribute: STR or DEX, depending on GM preference
+        - Melee/Brawling Parry Skill
 
 
 
