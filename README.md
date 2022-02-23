@@ -23,7 +23,7 @@ All references to the Star Wars, Expanded Universe, or any of the Star Wars film
 
 
 
-### \*Notes for setting up D6 Space to host a Star Wars D6 game:
+###### \*Notes for setting up D6 Space to host a Star Wars D6 game:
 - Under Game Settings > Configure Settings
   - Modify System Settings
      - Change custom labels:
