@@ -12,7 +12,7 @@ This module contains compendium packs for:
   -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
 - Force Powers and Force Skills (in-progress)
 
-## Disclaimers
+## 👨‍⚖️ Disclaimers
 #### ⚖️ A Message from the Developer: 
 This is a private FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, and FoundryVTT. 
 
