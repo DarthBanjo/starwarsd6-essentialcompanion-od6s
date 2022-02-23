@@ -19,22 +19,11 @@
 			"path": "./packs/advskills.db",
 			"entity": "Item",
 			"type": "Item"
-		}, {
-			"name": "module-force",
-			"label": "Star Wars D6 Force Compendium Pack",
-			"path": "./packs/theforce.db",
-			"entity": "Item",
-			"type": "Item"
-		}, {
-			"name": "module-gear",
-			"label": "Star Wars D6 Equipment Pack",
-			"path": "./packs/equips.db",
-			"entity": "Item",
-			"type": "Item"
-		}, {
-			"name": "module-weapons",
-			"label": "Star Wars D6 Weapon Pack",
-			"path": "./packs/weapons.db",
+		}, 
+		{	
+			"name": "module-forcepow",
+			"label": "Star Wars D6 Force Powers",
+			"path": "./packs/reuppowers.db",
 			"entity": "Item",
 			"type": "Item"
 		}
