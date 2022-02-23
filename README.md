@@ -1,4 +1,4 @@
-# StarWarsREUP_FoundryVTT Content Packs
+# The StarWarsD6_REUP_FoundryVTT Content Pack
 
 ## About:
 This is a Foundry VTT module adding Star Wars D6 Skills from the community-sourced REUP rulebook.
