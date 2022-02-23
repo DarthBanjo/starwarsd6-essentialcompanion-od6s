@@ -55,12 +55,27 @@ All references to the Star Wars, Expanded Universe, or any of the Star Wars film
         - Hide advantages/disadvantages :white_check_mark:
         - Brawling Attribute: STR
         - Melee/Brawling Parry Skill :white_check_mark:
-        - 
+        - Dodge/parry/block as reaction :white_check_mark:
+        - Lock Defense Skills :white_check_mark:
+        - Fate Point clear at end of round :white_check_mark:
+        - Fate Points always climactic :white_check_mark:
+        - use Str for damage :white_check_mark:
+        - Do not use Metaphysics attribute :white_check_mark:
+        - use dice for scale modifiers :white_check_mark:
+        - Starship Sensor abilities :white_check_mark:
+        - vehicle speed difficulty :white_check_mark:
+        - passenger damage dice :white_check_mark:
+        - grenade/explosive damage dice :white_check_mark:
+        - Difficulty levels for range :white_check_mark:
+        - Melee weapons have difficulty :white_check_mark:
+        - Hit locations :white_check_mark:
+        - Pip per Dice: 3
+        - Flat skills: :white_large_square:
 
 
 
 ###### Dear future self:
-- The my-content-module is used for creating .dbs and then uploading them to github.
+The *my-content-module* module is used for creating emplty neddb packs and then uploading them to Github.
 - Use items.db as a template 
 - unlock it
 - place some content into it
