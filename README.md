@@ -1,11 +1,12 @@
 # The StarWarsD6_REUP_FoundryVTT Content Pack
 
 ## About:
-This is a Foundry VTT module adding Star Wars D6 content from the community-sourced REUP rulebook. Star Wars D6 by West End Games is an older system, out of print and open source. This builds on the OpenD6 Space System, and that system is required for these to work properly.\* 
+This is a Foundry VTT module adding Star Wars D6 content from the community-sourced REUP rulebook. Star Wars D6 by West End Games is an older system, out of print and open source. This builds on the OpenD6 Space System, and that system is required to work properly.\* This is not a full game system, only a fan-compiled content module to bring Star Wars content to an Open D6 world. 
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
 
 ## Contents:
+This module contains compendium packs for:
 - Skills
 - Advanced Skills 
   -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
