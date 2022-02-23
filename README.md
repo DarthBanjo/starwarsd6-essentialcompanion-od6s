@@ -9,7 +9,8 @@ This builds on the OpenD6 Space System, and that system is required for these to
 ## Contents:
 - Skills
 - Advanced Skills 
--   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
+  -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
+- Force Powers and Force Skills (in-progress)
 
 ## Disclaimers
 #### A Message from the Developer: 
