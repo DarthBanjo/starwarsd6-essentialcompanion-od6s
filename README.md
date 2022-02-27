@@ -1,4 +1,4 @@
-<img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="200"/>
+<img align="middle" src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/>
 
 # The StarWarsD6_REUP_FoundryVTT Content Pack
 
