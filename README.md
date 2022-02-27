@@ -1,4 +1,4 @@
-![DarthBanjo's Cool Logo](/art/SWFVTT.png)
+<img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="200"/>
 
 # The StarWarsD6_REUP_FoundryVTT Content Pack
 
