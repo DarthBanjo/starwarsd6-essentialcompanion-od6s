@@ -1,3 +1,5 @@
+![DarthBanjo's Cool Logo](/art/SWFVTT.png)
+
 # The StarWarsD6_REUP_FoundryVTT Content Pack
 
 ## 🌌 About:
