@@ -1,8 +1,7 @@
-<img align="middle" src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/>
-
 # The StarWarsD6_REUP_FoundryVTT Content Pack
 
-## 🌌 About:
+<p align="center"><img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
+
 This is a Foundry VTT module adding Star Wars D6 content from the community-sourced REUP rulebook. Star Wars D6 by West End Games is an older system, out of print and open source. This builds on the OpenD6 Space System, and that system is required to work properly.\* This is not a full game system, only a fan-compiled content module to bring Star Wars content to an Open D6 world. 
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
