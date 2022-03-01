@@ -15,7 +15,7 @@ This module contains compendium packs for:
 
 ## 👨‍⚖️ Disclaimers
 #### ⚖️ A Message from the Developer: 
-This is a private FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, and FoundryVTT. 
+This is a private FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. I am not associated with REUP, I am just a community member. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, and FoundryVTT. 
 
 #### ⚖️ Regarding Graphics:
 Some of these Packs contain icons for various skills, powers, and/or equipment. At the time of this writing, they are svg skill graphics created by DarthBanjo. The aurebesh font made by Pixel Saga might be used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution. 
