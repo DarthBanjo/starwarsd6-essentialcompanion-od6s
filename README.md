@@ -11,7 +11,8 @@ This module contains compendium packs for:
 - Skills
 - Advanced Skills 
   -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
-- Force Powers and Force Skills (in-progress)
+- Force Powers and Force Skills 
+- Equipment and Weapons (in-progress)
 
 ## 👨‍⚖️ Disclaimers
 #### ⚖️ A Message from the Developer: 
