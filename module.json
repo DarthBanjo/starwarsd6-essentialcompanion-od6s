@@ -1,8 +1,8 @@
 {
 	"name": "StarWarsD6_REUP_FoundryVTT",
-	"title": "Star Wars D6 REUP Content",
-	"description": "A collection of Star Wars D6 2nd Edition Revised and Expanded content.",
-	"version": "1.2.1",
+	"title": "The Essential Companion to Star Wars D6",
+	"description": "A collection of Star Wars D6 2nd Edition Revised, Expanded and Updated content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
+	"version": "1.2.2",
 	"author": "Darth Banjo",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "9",
@@ -28,23 +28,9 @@
 			"type": "Item"
 		},
 		{	
-			"name": "module-rangedweaps",
-			"label": "Star Wars D6 Ranged Weapons",
+			"name": "module-weaps",
+			"label": "Star Wars D6 Weapons",
 			"path": "./packs/reuprweaps.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{	
-			"name": "module-meleeweaps",
-			"label": "Star Wars D6 Melee Weapons",
-			"path": "./packs/reupmweaps.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{	
-			"name": "module-reupequips",
-			"label": "Star Wars D6 Equipment",
-			"path": "./packs/reupequips.db",
 			"entity": "Item",
 			"type": "Item"
 		}
