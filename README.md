@@ -2,12 +2,12 @@
 
 <p align="center"><img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
-This is a Foundry VTT module adding West End Games Star Wars D6 Roleplaying Game content from the community-sourced REUP rulebook. Star Wars D6 by West End Games is an older system, out of print and open source. This builds on the OpenD6 Space System, and that system is required to work properly.\* This is not a full game system, only a fan-compiled content module to bring Star Wars content to an Open D6 world. 
+This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print and open source.  This is not a full game system--and relies on the OpenD6 Space System\* to work properly. This is a fan-compiled content module based on the *Star Wars: Revised, Expanded and Updated* rulebook.
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
 
 ## ✨ Contents:
-This module contains compendium packs for:
+This module contains compendium packs for the following Star Wars D6 content:
 - Skills
 - Advanced Skills 
   -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
@@ -15,8 +15,8 @@ This module contains compendium packs for:
 - Equipment and Weapons (in-progress)
 
 ## 👨‍⚖️ Disclaimers
-#### ⚖️ A Message from the Developer: 
-This is a private FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. I am not associated with REUP, I am just a community member. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, and FoundryVTT. 
+#### ⚖️ A Message from DarthBanjo: 
+This is a private FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. I am not associated with REUP, I am just a community member. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, seumas for their work on the OpenD6 Space System for FoundryVTT, and FoundryVTT's developers themselves. 
 
 #### ⚖️ Regarding Graphics:
 Some of these Packs contain icons for various skills, powers, and/or equipment. At the time of this writing, they are svg skill graphics created by DarthBanjo. The aurebesh font made by Pixel Saga might be used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution. 
