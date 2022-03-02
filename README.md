@@ -2,7 +2,7 @@
 
 <p align="center"><img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
-This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print and open source.  This is not a full game system--it relies on the OpenD6 Space System\* in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the *Star Wars: Revised, Expanded and Updated* rulebook.
+This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print and open source.  This is not a full game system--it relies on the OpenD6 Space System[\*](https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT#-notes-for-setting-up-d6-space-to-host-a-star-wars-d6-game-this-is-for-me-since-i-know-that-i-will-have-to-reinstall-the-world-someday) in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the *Star Wars: Revised, Expanded and Updated* rulebook.
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
 
@@ -27,61 +27,51 @@ All references to the Star Wars, Expanded Universe, or any of the Star Wars film
 
 
 ###### \*📝 Notes for setting up D6 Space to host a Star Wars D6 game (this is for me, since I know that I will have to reinstall the world someday):
-- Under Game Settings > Configure Settings
-  - Modify System Settings
-     - Change custom labels:
-        - Fate Points: Force Points
-        - Short Name Fate Points: Force Points
-        - Customize 'use a fate point?': Use a force point?
-        - Currency: Credits
-        - Vehicle Toughness: Body Strength
-        - Starship Toughness: Hull
-        - Manifestations Name: Force Powers
-        - Manifestation singular: Force Power
-        - Metaphysics name: The Force
-        - Metaphysics abbrevation: The Force
-        - Metaphysics extranormal: Force Sensitive
-        - Agility: Dexterity
-        - Agi: DEX
-        - Str: STR
-        - Mec: MEC
-        - Kno: KNO
-        - Per: PER
-        - Tec: TEC
-      - Change Custom Fields:
-        - Character Sheet Field 1: Dark Side Points
-        - Short Name Custom Field 1: Dark Side Points
-        - Custom Field 1 Type: Number
-      - Change Rules Options:
-        - Use Wound levels
-        - Optional Damage :white_large_square:
-        - Hide advantages/disadvantages :white_check_mark:
-        - Brawling Attribute: STR
-        - Melee/Brawling Parry Skill :white_check_mark:
-        - Dodge/parry/block as reaction :white_check_mark:
-        - Lock Defense Skills :white_check_mark:
-        - Fate Point clear at end of round :white_check_mark:
-        - Fate Points always climactic :white_check_mark:
-        - use Str for damage :white_check_mark:
-        - Do not use Metaphysics attribute :white_check_mark:
-        - use dice for scale modifiers :white_check_mark:
-        - Starship Sensor abilities :white_check_mark:
-        - vehicle speed difficulty :white_check_mark:
-        - passenger damage dice :white_check_mark:
-        - grenade/explosive damage dice :white_check_mark:
-        - Difficulty levels for range :white_check_mark:
-        - Melee weapons have difficulty :white_check_mark:
-        - Hit locations :white_check_mark:
-        - Pip per Dice: 3
-        - Flat skills: :white_large_square:
-
-
-
-###### 💬 Dear future self:
-The *my-content-module* module is used for creating emplty neddb packs and then uploading them to Github.
-- Use items.db as a template 
-- unlock it
-- place some content into it
-- relock it
-- then add it to this repository.
+Under Game Settings > Configure Settings
+- Modify System Settings
+   - Change custom labels:
+      - Fate Points: Force Points
+      - Short Name Fate Points: Force Points
+      - Customize 'use a fate point?': Use a force point?
+      - Currency: Credits
+      - Vehicle Toughness: Body Strength
+      - Starship Toughness: Hull
+      - Manifestations Name: Force Powers
+      - Manifestation singular: Force Power
+      - Metaphysics name: The Force
+      - Metaphysics abbrevation: The Force
+      - Metaphysics extranormal: Force Sensitive
+      - Agility: Dexterity
+      - Agi: DEX
+      - Str: STR
+      - Mec: MEC
+      - Kno: KNO
+      - Per: PER
+      - Tec: TEC
+    - Change Custom Fields:
+      - Character Sheet Field 1: Dark Side Points
+      - Short Name Custom Field 1: Dark Side Points
+      - Custom Field 1 Type: Number
+    - Change Rules Options:
+      - Use Wound levels
+      - Optional Damage :white_large_square:
+      - Hide advantages/disadvantages :white_check_mark:
+      - Brawling Attribute: STR
+      - Melee/Brawling Parry Skill :white_check_mark:
+      - Dodge/parry/block as reaction :white_check_mark:
+      - Lock Defense Skills :white_check_mark:
+      - Fate Point clear at end of round :white_check_mark:
+      - Fate Points always climactic :white_check_mark:
+      - use Str for damage :white_check_mark:
+      - Do not use Metaphysics attribute :white_check_mark:
+      - use dice for scale modifiers :white_check_mark:
+      - Starship Sensor abilities :white_check_mark:
+      - vehicle speed difficulty :white_check_mark:
+      - passenger damage dice :white_check_mark:
+      - grenade/explosive damage dice :white_check_mark:
+      - Difficulty levels for range :white_check_mark:
+      - Melee weapons have difficulty :white_check_mark:
+      - Hit locations :white_check_mark:
+      - Pip per Dice: 3
+      - Flat skills: :white_large_square:
 
