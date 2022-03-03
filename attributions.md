@@ -1,4 +1,5 @@
-# This is the document for all the Creative Commons Attributions. Changes were probably made by running the Creative Commons work through Tokentool to create .webp icons and add a border. This document is a reasonable attempt to attribute appropriately, but this is not to suggest that the licensor endorses this project or the use of the artwork.
+# This is the document for all the Creative Commons Attributions. 
+Changes were probably made by running the Creative Commons work through Tokentool to create .webp icons and add a border. This document is a reasonable attempt to attribute appropriately, but this is not to suggest that the licensor endorses this project or the use of the artwork.
 
 ##### Attribution 4.0 International (CC By 4.0) (CC By 2.0): 
 You are free to: **Share** -- copy and redistribute the material in any medium or format and **Adapt** -- remix, transform, and build upon the material for any purpose, even commercially. Requires Attribution
