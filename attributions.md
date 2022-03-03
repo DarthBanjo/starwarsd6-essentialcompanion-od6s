@@ -6,7 +6,7 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 
 - **Blaster Rifle:** "IMG_6616" by gordontarpley is marked with CC BY 2.0.
 - **Blaster Pistol:** "DH-17 Blaster from Star Wars" by billybobcorncob is marked with CC BY 4.0.
-- **Stormtrooper:**	"Star Wars 12" by Karen_O'D is marked with CC BY 2.0.
+- **Stormtrooper Helmet:**	"Star Wars 12" by Karen_O'D is marked with CC BY 2.0.
 
 ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 You are free to: **Share** -- copy and redistribute the material in any medium or format and **Adapt** -- remix, transform, and build upon the material for any purpose, even commercially. Requires Attribution, NonCommercial, and Sharealike
