@@ -4,22 +4,29 @@ Changes were probably made by running the Creative Commons work through Tokentoo
 If you expand the equipIcons directory, you will see a folder structure that explains where each icon came from.
 
 ### Attribution 4.0 International (CC By 4.0) (CC By 2.0): 
-You are free to: **Share** -- copy and redistribute the material in any medium or format and **Adapt** -- remix, transform, and build upon the material for any purpose, even commercially. Requires Attribution. You can find them in the /art/items/equipIcons/CCBY directory.
+You are free to: **Share** -- copy and redistribute the material in any medium or format and **Adapt** -- remix, transform, and build upon the material for any purpose, even commercially. You can find them in the /art/items/equipIcons/CCBY directory.
 
-- **Blaster Rifle:** "IMG_6616" by gordontarpley is marked with CC BY 2.0.
-- **Blaster Pistol:** "DH-17 Blaster from Star Wars" by billybobcorncob is marked with CC BY 4.0.
-- **Stormtrooper Helmet:**	"Star Wars 12" by Karen_O'D is marked with CC BY 2.0.
+- "Star Wars 12" by Karen_O'D is marked with CC BY 2.0.
+- "WonderCon 2012 - custom lightsabers (7019313131).jpg" by Pop Culture Geek taken by Doug Kline is marked with CC BY 2.0
+- "Bandolier" - Auckland Museum, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+- "chain" by pratanti is marked with CC BY 2.0.
+
+### Attribution 4.0 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
+You are free to: **Share** — copy and redistribute the material in any medium or format and **Adapt** — remix, transform, and build upon the material
+for any purpose, even commercially. You can find them in the /art/items/equipIcons/CCBYSA directory
+
+- "Star Wars and the Power of Costume July 2018 08 (Luke Skywalker's Jedi robes from Episode VI).jpg" by Michael Barera is marked with CC BY-SA 4.0.
+- "Star Wars and the Power of Costume July 2018 43 (Imperial officer's costume, hat, code cylinders, holster, and blaster from Episode VI).jpg" by Michael Barera, CC BY-SA 4.0
+
 
 ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 You are free to: **Share** -- copy and redistribute the material in any medium or format and **Adapt** -- remix, transform, and build upon the material for any purpose, even commercially. Requires Attribution, NonCommercial, and Sharealike. You can find them in the /art/items/equipIcons/CCBYNCSA directory.
 
-- **Lightsaber:**	"Lightsaber" by arbyreed is marked with CC BY-NC-SA 2.0.
-- **Rebel Flight Suit:** "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
-- **Wrist Comlink:** "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
-- **Rebreather:** "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
-- **Double-Bladed Lightsaber:** "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
-- **Heavy Blaster Pistol:** "Leave it to my daughter to just leave her blaster lying on the bathroom floor. " by manicsquirrel is marked with CC BY-NC-SA 2.0.
-- **Hold-Out Blaster:** "Legacy blasters" by alanosaur is marked with CC BY-NC-SA 2.0.
+- "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
+- "Costumes and Characters - Star Wars Identities" by DavRob60 is marked with CC BY-NC-SA 2.0.
+- "Leave it to my daughter to just leave her blaster lying on the bathroom floor. " by manicsquirrel is marked with CC BY-NC-SA 2.0.
+- "Legacy blasters" by alanosaur is marked with CC BY-NC-SA 2.0.
+- "OBI WAN - EP 1 CLOAK" by DANIEL IS CLEVER is marked with CC BY-SA 2.0.
 
 ### REUP_CC: Star Wars Roleplaying Game Rulebook Creative Commons (CC)
 The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with a Creative Commons license. Many Icons came from there and you can find them in the /art/items/equipIcons/REUP_CC directory.
