@@ -18,6 +18,7 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 - "Welding." by Boudewijn Berends is marked with CC BY 2.0.
 - "20th January 2007" by SLPTWRK is marked with CC BY 2.0.
 - "File:Leather gun holsters without guns.jpg" by Takeshi Mano is marked with CC BY 2.0.
+- "Soldier Power Manager" by CCDC_C5ISR is marked with CC BY 2.0.
 
 
 ### Attribution 4.0 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
@@ -28,6 +29,7 @@ for any purpose, even commercially. You can find them in the /art/items/equipIco
 - "Star Wars and the Power of Costume July 2018 43 (Imperial officer's costume, hat, code cylinders, holster, and blaster from Episode VI).jpg" by Michael Barera, CC BY-SA 4.0
 - "Spare parts kit" by Epakai is marked with CC BY-SA 2.0.
 - "Polyken_Duct_tape.jpg" by Markbritton, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+- "Graham And The Fire Extinguisher" by foilman is marked with CC BY-SA 2.0.
 
 
 ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
@@ -45,6 +47,8 @@ The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with 
 ### WEG_FAIR: Star Wars Wend Games Roleplaying Game Content (FAIR USE)
 The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old sourcebooks. Since they are out of print and this project is for nonprofit reasons, this qualifies as Fair Use because it advances the knowledge of the arts of this old game system, yet in a new format for players to discover and use for free. 
 
+### FFG_FAIR: Fantasy Flight Games Star Wars Content (FAIR USE)
+As of 2020, Fantasy Flight Games' distribution and manufacture of the Star Wars line of miniatures games, X-Wing Second Edition, Star Wars: Armada, and Star Wars: Legion would transition to Atomic Mass Games and Edge Entertainment. Items in the /art/items/equipIcons/FFG_FAIR directory contain icons made from old FFG game artwork. Since they will transfer to a different publisher and this project is for nonprofit reasons, this qualifies as Fair Use because it advances the knowledge of the arts in a new format for players to discover and use for free. 
 
-
+- CR-24 Flame Projector by Jacob Atienza<https://starwars.fandom.com/wiki/Jacob_Atienza>
 
