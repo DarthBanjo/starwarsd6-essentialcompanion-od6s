@@ -33,8 +33,23 @@
 			"path": "./packs/reuprweaps.db",
 			"entity": "Item",
 			"type": "Item"
+		},
+		{	
+			"name": "module-equip",
+			"label": "Star Wars D6 Personal Equipment",
+			"path": "./packs/reupgear.db",
+			"entity": "Item",
+			"type": "Item"
+		},
+		{	
+			"name": "module-bmacros",
+			"label": "Star Wars Macros",
+			"path": "./packs/banjomacros.db",
+			"entity": "Macro",
+			"type": "Macro"
 		}
 	],
+	"url" : "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT",
 	"manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
 	"download": "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/archive/refs/heads/main.zip"
 }

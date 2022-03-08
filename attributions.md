@@ -45,10 +45,10 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with a Creative Commons license. Many Icons came from there and you can find them in the /art/items/equipIcons/REUP_CC directory.
 
 ### WEG_FAIR: Star Wars Wend Games Roleplaying Game Content (FAIR USE)
-The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old sourcebooks. Since they are out of print and this project is for nonprofit reasons, this qualifies as Fair Use because it advances the knowledge of the arts of this old game system, yet in a new format for players to discover and use for free. 
+The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old out-of-print sourcebooks.  
 
 ### FFG_FAIR: Fantasy Flight Games Star Wars Content (FAIR USE)
-As of 2020, Fantasy Flight Games' distribution and manufacture of the Star Wars line of miniatures games, X-Wing Second Edition, Star Wars: Armada, and Star Wars: Legion would transition to Atomic Mass Games and Edge Entertainment. Items in the /art/items/equipIcons/FFG_FAIR directory contain icons made from old FFG game artwork. Since they will transfer to a different publisher and this project is for nonprofit reasons, this qualifies as Fair Use because it advances the knowledge of the arts in a new format for players to discover and use for free. 
+From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, and role-playing games set in the star wars universe. As of 2020, distribution and manufacture of the Star Wars content would transition to Atomic Mass Games and Edge Entertainment. Items in the /art/items/equipIcons/FFG_FAIR directory contain icons made from old FFG game artwork. 
 
 - CR-24 Flame Projector by Jacob Atienza<https://starwars.fandom.com/wiki/Jacob_Atienza>
 
