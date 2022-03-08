@@ -47,6 +47,13 @@
 			"path": "./packs/banjomacros.db",
 			"entity": "Macro",
 			"type": "Macro"
+		},
+		{	
+			"name": "module-commodity",
+			"label": "Star Wars General Goods",
+			"path": "./packs/reupcommodity.db",
+			"entity": "Item",
+			"type": "Item"
 		}
 	],
 	"url" : "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT",
