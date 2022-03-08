@@ -12,9 +12,9 @@ This module contains compendium packs for the following Star Wars D6 content:
 - Advanced Skills 
   -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
 - Force Powers and Force Skills 
-- Equipment 
+- Equipment and Armor
 - Assorted Helpful Macros 
-- Weapons and Armor (in-progress)
+- Weapons (in-progress)
 
 ## 👨‍⚖️ Disclaimers
 #### ⚖️ A Message from DarthBanjo: 
