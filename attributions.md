@@ -10,6 +10,15 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 - "WonderCon 2012 - custom lightsabers (7019313131).jpg" by Pop Culture Geek taken by Doug Kline is marked with CC BY 2.0
 - "Bandolier" - Auckland Museum, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
 - "chain" by pratanti is marked with CC BY 2.0.
+- "Beanie Weenie C-Ration Jan67" by Paul's Captures (paul-mashburn.artistwebsites.com) is marked with CC BY 2.0.
+- "Mainframe Computer" by Pargon is marked with CC BY 2.0.
+- "Surgical kit (NCP 3680), National Museum of Health and Medicine" by Norman Watkins is marked with CC BY 2.0
+- "Brown Leather Tool Belt" by Free For Commercial Use Fashion Lifestyle Images is marked with CC BY 2.0.
+- "Sparks fly as Adam saws off the screws for an even surface, power saw, gloves, protective glasses, renovation, closet, insulation, Seattle, Washington, USA" by Wonderlane is marked with CC BY 2.0.
+- "Welding." by Boudewijn Berends is marked with CC BY 2.0.
+- "20th January 2007" by SLPTWRK is marked with CC BY 2.0.
+- "File:Leather gun holsters without guns.jpg" by Takeshi Mano is marked with CC BY 2.0.
+
 
 ### Attribution 4.0 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
 You are free to: **Share** — copy and redistribute the material in any medium or format and **Adapt** — remix, transform, and build upon the material
@@ -17,6 +26,8 @@ for any purpose, even commercially. You can find them in the /art/items/equipIco
 
 - "Star Wars and the Power of Costume July 2018 08 (Luke Skywalker's Jedi robes from Episode VI).jpg" by Michael Barera is marked with CC BY-SA 4.0.
 - "Star Wars and the Power of Costume July 2018 43 (Imperial officer's costume, hat, code cylinders, holster, and blaster from Episode VI).jpg" by Michael Barera, CC BY-SA 4.0
+- "Spare parts kit" by Epakai is marked with CC BY-SA 2.0.
+- "Polyken_Duct_tape.jpg" by Markbritton, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 
 ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
