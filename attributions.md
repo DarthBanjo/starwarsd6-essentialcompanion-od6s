@@ -92,6 +92,7 @@ From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, an
 - Explosive Rage, Star Wars Imperial Assault by [Borja Pindado]<https://www.deviantart.com/borjapindado>
 - Personal Shields, Imperial Assault by [Joel Hustak]<https://www.deviantart.com/joelhustak>
 
+Vehicles and Artillery
 - EchoBase-TCGtSfS.png, Star Wars the Card Game by [Mariusz Gandzel]<https://starwars.fandom.com/wiki/Mariusz_Gandzel>
 
 - All Fighters, Follow Me, for Armada by [Anthony Devine]<https://www.deviantart.com/anthonydevine>
@@ -110,6 +111,10 @@ From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, an
 - Black 2, for Star Wars The Card Game by [Lukasz Jaskolski]<https://starwars.fandom.com/wiki/Lukasz_Jaskolski>
 - Overwhelming Firepower, for Star Wars the Card Game by [Ameen Naksewee]<https://starwars.fandom.com/wiki/Ameen_Naksewee>
 - Cloud Cover, for Star Wars the Card Game by [Sacha Angel Diener]<https://starwars.fandom.com/wiki/Sacha_Angel_Diener>
+
+Actors
+- Darth Vader, FFG card by [Ryan Valle]<https://www.deviantart.com/r-valle>
+- TIE Pilot, Age of Rebellion by [Joel Hustak]<https://www.deviantart.com/joelhustak>
 
 ###Other attributions
 - Atgar Turret Dice from Star Wars Battlefront
