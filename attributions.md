@@ -8,7 +8,7 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 
 - "Star Wars 12" by Karen_O'D is marked with CC BY 2.0.
 - "WonderCon 2012 - custom lightsabers (7019313131).jpg" by Pop Culture Geek taken by Doug Kline is marked with CC BY 2.0
-- "Bandolier" - Auckland Museum, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+- "Bandolier" - Auckland Museum, is marked with CC BY 4.0, via Wikimedia Commons
 - "chain" by pratanti is marked with CC BY 2.0.
 - "Beanie Weenie C-Ration Jan67" by Paul's Captures (paul-mashburn.artistwebsites.com) is marked with CC BY 2.0.
 - "Mainframe Computer" by Pargon is marked with CC BY 2.0.
@@ -19,6 +19,7 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 - "20th January 2007" by SLPTWRK is marked with CC BY 2.0.
 - "File:Leather gun holsters without guns.jpg" by Takeshi Mano is marked with CC BY 2.0.
 - "Soldier Power Manager" by CCDC_C5ISR is marked with CC BY 2.0.
+- "Assault on Hoth" by Brickset is marked with CC BY 2.0.
 
 
 ### Attribution 4.0 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
@@ -28,8 +29,10 @@ for any purpose, even commercially. You can find them in the /art/items/equipIco
 - "Star Wars and the Power of Costume July 2018 08 (Luke Skywalker's Jedi robes from Episode VI).jpg" by Michael Barera is marked with CC BY-SA 4.0.
 - "Star Wars and the Power of Costume July 2018 43 (Imperial officer's costume, hat, code cylinders, holster, and blaster from Episode VI).jpg" by Michael Barera, CC BY-SA 4.0
 - "Spare parts kit" by Epakai is marked with CC BY-SA 2.0.
-- "Polyken_Duct_tape.jpg" by Markbritton, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+- "Polyken_Duct_tape.jpg" by Markbritton, is marked with CC BY-SA 3.0.
 - "Graham And The Fire Extinguisher" by foilman is marked with CC BY-SA 2.0.
+- "Hatchet" By GWphotograph - Own work, CC BY-SA 4.0.
+- "Star Wars and the Power of Costume July 2018 27 (Rey's costume from Episode VII).jpg" by Michale Barera is marked with CC BY-SA 4.0.
 
 
 ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
@@ -40,6 +43,10 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 - "Leave it to my daughter to just leave her blaster lying on the bathroom floor. " by manicsquirrel is marked with CC BY-NC-SA 2.0.
 - "Legacy blasters" by alanosaur is marked with CC BY-NC-SA 2.0.
 - "OBI WAN - EP 1 CLOAK" by DANIEL IS CLEVER is marked with CC BY-SA 2.0.
+- "crossbow [431]" by brianjmatis is marked with CC BY-NC-SA 2.0.
+- "Sling" by Shearwater is marked with CC BY-NC-SA 2.0.
+- "Duelling Pistols" by hmerinomx is marked with CC BY-NC-SA 2.0.
+- "Brown Bess flintlock Musket, circa 1790 - detail." by Birmingham Museum and Art Gallery is marked with CC BY-NC-SA 2.0.
 
 ### REUP_CC: Star Wars Roleplaying Game Rulebook Creative Commons (CC)
 The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with a Creative Commons license. Many Icons came from there and you can find them in the /art/items/equipIcons/REUP_CC directory.
@@ -50,5 +57,60 @@ The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998
 ### FFG_FAIR: Fantasy Flight Games Star Wars Content (FAIR USE)
 From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, and role-playing games set in the star wars universe. As of 2020, distribution and manufacture of the Star Wars content would transition to Atomic Mass Games and Edge Entertainment. Items in the /art/items/equipIcons/FFG_FAIR directory contain icons made from old FFG game artwork. 
 
-- CR-24 Flame Projector by Jacob Atienza<https://starwars.fandom.com/wiki/Jacob_Atienza>
+- CR-24 Flame Projector, Star Wars Legion by [Jacob Atienza]<https://starwars.fandom.com/wiki/Jacob_Atienza>
+- Gungan Captain, Star Wars Galaxies Trading Card Game by [Buddy Jiang]<https://starwars.fandom.com/wiki/Buddy_Jiang>
+- Electrostaff Guard Illustration, Star Wars Legion by [JB Casacop]<https://starwars.fandom.com/wiki/JB_Casacop>
+- Boushh, Star Wars: The Card Game by [Clark Huggins]<https://starwars.fandom.com/wiki/Clark_Huggins>
+- Gaffi Stick, Star Wars: The Card Game by [Joel Hustak]<https://www.deviantart.com/joelhustak/art/Gaffi-Stick-395186024>
+- Gondula Warrior, Star Wars Galaxies Trading Card Game by [Fred Rambaud]<https://starwars.fandom.com/wiki/Fred_Rambaud>
+- Lowhhrick, Star Wars Destiny by [Adam Schumpert]<https://starwars.fandom.com/wiki/Adam_Schumpert>
+- Knife, Star Wars Galaxies Trading Card Game by [Miguel Coimbra]<https://starwars.fandom.com/wiki/Miguel_Coimbra>
+- Spear, Star Wars: The Card Game by [Jon Bosco]<https://starwars.fandom.com/wiki/Jon_Bosco>
+- Vibrodagger, Star Wars Galaxies Trading Card Game by [Kieran Yanner]<https://starwars.fandom.com/wiki/Kieran_Yanner>
+- Yoda's Lightsaber, Star Wars Destiny by [JB Casacop]<https://starwars.fandom.com/wiki/JB_Casacop>
+- Combat Knife, Star Wars Galaxies Trading Card Game by [Adam Gillespie]<https://starwars.fandom.com/wiki/Adam_Gillespie>
+- Razor Net, Star Wars Galaxies Trading Card Game by [Sunder Raj Kali Kavandan]<https://starwars.fandom.com/wiki/Sunder_Raj_Kali_Kavandan>
+- Tusken Recon, Star Wars Galaxies Trading Card Game by [Kerem Beyit]<https://starwars.fandom.com/wiki/Kerem_Beyit>
+- Qira with Pistol, from Gadgets and Gear book. Artist unknown.
+- Snowtroopers Assault, from Star Wars the Card Game by [agnidevi]< https://www.deviantart.com/agnidevi>
+- Scattergun, for Edge of the Empire. Artist unknown.
+- HSB-200, Star Wars Galaxies Trading Card Game by [Kieran Yanner]<https://starwars.fandom.com/wiki/Kieran_Yanner>
+- DL-18 Blaster Pistol, Star Wars Galaxies Trading Card Game by [Ben Wootten]<https://www.deviantart.com/benwootten>
+- Age of Rebellion Cover Art, Star Wars RPG by [Darren Tan]<https://www.deviantart.com/wraithdt>
+- Canyon Run, Imperial Assault by [Joel Hustak]<https://www.deviantart.com/joelhustak>
+- Conscript Carbine, Star Wars Galaxies Trading Card Game by Artist Unknown
+- Stormtroopers, Star Wars Imperial Assault by [Ryan Valle]<https://www.deviantart.com/r-valle>
+- Baze Malbus, by [Ryan Valle]<https://www.deviantart.com/r-valle>
+- Hoth Trooper, Star Wars Imperial Assault by [Anthony Foti]<https://www.deviantart.com/anthonyfoti>
+- Dengar, Imperial Assault by [Darren Tan]<https://www.deviantart.com/wraithdt>
+- Boushh, FFG card by [Ryan Valle]<https://www.deviantart.com/r-valle>
+- Bo-rifle, FFG card by [almanegra]<https://www.deviantart.com/almanegra>
+- Tracking the Quarry, Edge of the Empire. by [Jacob Atienza]<https://www.deviantart.com/jubjubjedi>
+- Chewbacca's Bowcaster, FFG work by [Thaldir]<https://www.deviantart.com/thaldir>
+- Jawa Scavenger, Imperial Assault by unknown artist
+- T-7 Ion Disruptor Rifle, Star Wars Destiny by unknown artist
+- Explosive Rage, Star Wars Imperial Assault by [Borja Pindado]<https://www.deviantart.com/borjapindado>
+- Personal Shields, Imperial Assault by [Joel Hustak]<https://www.deviantart.com/joelhustak>
 
+- EchoBase-TCGtSfS.png, Star Wars the Card Game by [Mariusz Gandzel]<https://starwars.fandom.com/wiki/Mariusz_Gandzel>
+
+- All Fighters, Follow Me, for Armada by [Anthony Devine]<https://www.deviantart.com/anthonydevine>
+- Imperial Star Destroyer Chimaera, for Star Wars TCG by [Anthony Devine]<https://www.deviantart.com/anthonydevine>
+- Nebulon-B Escort Frigate, for Armada by [agnidevi]< https://www.deviantart.com/agnidevi>
+- Rebel Transport Box Art, for X-Wing The Miniatures Game by [Darren Tan]<https://www.deviantart.com/wraithdt>
+- Rogue 3, for Star Wars TCG by [Joel Hustak]<https://www.deviantart.com/joelhustak>
+- Walker Assault, for Star Wars Galaxies TCG by [Kai Lim]<https://www.deviantart.com/ukitakumuki>
+- Firespray for Star Wars Galaxies TCG by [Derek Herring]<https://starwars.fandom.com/wiki/Derek_Herring>
+- Swoop Racing, for Star Wars The Card Game by [Erfian Asafat]<https://starwars.fandom.com/wiki/Erfian_Asafat>
+- Scout Trooper, for Star Wars the Card Game by [Balance-Sheet]<https://www.deviantart.com/balance-sheet>
+- Targeted Strike, for Star Wars Edge of the Empire by [Mariusz Gandzel]<https://starwars.fandom.com/wiki/Mariusz_Gandzel>
+- ATAT Barrage, for Star Wars Galaxies Trading Card Game by [Ryan Barger]<https://starwars.fandom.com/wiki/Ryan_Barger>
+- N-1, for Star Wars Galaxies Trading Card Game by [Kevin Shoemaker]<https://starwars.fandom.com/wiki/Kevin_Shoemaker>
+- Obsidian Leader, for Star Wars Destiny Card Game by [Lukasz Jaskolski]<https://starwars.fandom.com/wiki/Lukasz_Jaskolski>
+- Black 2, for Star Wars The Card Game by [Lukasz Jaskolski]<https://starwars.fandom.com/wiki/Lukasz_Jaskolski>
+- Overwhelming Firepower, for Star Wars the Card Game by [Ameen Naksewee]<https://starwars.fandom.com/wiki/Ameen_Naksewee>
+- Cloud Cover, for Star Wars the Card Game by [Sacha Angel Diener]<https://starwars.fandom.com/wiki/Sacha_Angel_Diener>
+
+###Other attributions
+- Atgar Turret Dice from Star Wars Battlefront
+- Loronar Turbolaser Tower. I think it was from Essential Guide to Weapons
