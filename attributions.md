@@ -20,6 +20,8 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 - "File:Leather gun holsters without guns.jpg" by Takeshi Mano is marked with CC BY 2.0.
 - "Soldier Power Manager" by CCDC_C5ISR is marked with CC BY 2.0.
 - "Assault on Hoth" by Brickset is marked with CC BY 2.0.
+- "Timer" by alex.shultz is marked with CC BY 2.0.
+- "DSC_6153" by Washington National Guard is marked with CC BY 2.0.
 
 
 ### Attribution 4.0 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
@@ -91,6 +93,11 @@ From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, an
 - T-7 Ion Disruptor Rifle, Star Wars Destiny by unknown artist
 - Explosive Rage, Star Wars Imperial Assault by [Borja Pindado]<https://www.deviantart.com/borjapindado>
 - Personal Shields, Imperial Assault by [Joel Hustak]<https://www.deviantart.com/joelhustak>
+- EMP Grenades, Star Wars Destiny by [Jacob Atienza]<https://starwars.fandom.com/wiki/Jacob_Atienza>
+- Thermal Detonator, Star Wars Galaxies Trading Card Game by [Kieran Yanner]<https://starwars.fandom.com/wiki/Kieran_Yanner>
+- Remote Detonator, Star Wars Galaxies Trading Card Game by [Kieran Yanner]<https://starwars.fandom.com/wiki/Kieran_Yanner>
+- Explosive Charge, Star Wars TCG by Sara Biddle
+- Proximity Mine, Star Wasr X-Wing TMG by Stéphane Gantiez
 
 Vehicles and Artillery
 - EchoBase-TCGtSfS.png, Star Wars the Card Game by [Mariusz Gandzel]<https://starwars.fandom.com/wiki/Mariusz_Gandzel>
@@ -111,6 +118,7 @@ Vehicles and Artillery
 - Black 2, for Star Wars The Card Game by [Lukasz Jaskolski]<https://starwars.fandom.com/wiki/Lukasz_Jaskolski>
 - Overwhelming Firepower, for Star Wars the Card Game by [Ameen Naksewee]<https://starwars.fandom.com/wiki/Ameen_Naksewee>
 - Cloud Cover, for Star Wars the Card Game by [Sacha Angel Diener]<https://starwars.fandom.com/wiki/Sacha_Angel_Diener>
+- Scout Troopers using fragmenation grenades, for Star Wars Galaxies TCG by [Kai Lim]<https://www.deviantart.com/ukitakumuki>
 
 Actors
 - Darth Vader, FFG card by [Ryan Valle]<https://www.deviantart.com/r-valle>
@@ -119,3 +127,7 @@ Actors
 ###Other attributions
 - Atgar Turret Dice from Star Wars Battlefront
 - Loronar Turbolaser Tower. I think it was from Essential Guide to Weapons
+- Map making props have been used by Maveritchell (P. Thompson).
+Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Sergienko</a> on <a href="https://unsplash.com/s/photos/forest-path-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Sergienko</a> on <a href="https://unsplash.com/s/photos/forest-path-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
