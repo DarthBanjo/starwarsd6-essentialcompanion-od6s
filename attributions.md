@@ -98,6 +98,7 @@ From 2011 to 2020, Fantasy Flight Games held the license for card, miniature, an
 - Remote Detonator, Star Wars Galaxies Trading Card Game by [Kieran Yanner]<https://starwars.fandom.com/wiki/Kieran_Yanner>
 - Explosive Charge, Star Wars TCG by Sara Biddle
 - Proximity Mine, Star Wasr X-Wing TMG by Stéphane Gantiez
+- Rocket Launcher, Star Wars Galaxies TCG by [Darren Tan]<https://www.deviantart.com/wraithdt>
 
 Vehicles and Artillery
 - EchoBase-TCGtSfS.png, Star Wars the Card Game by [Mariusz Gandzel]<https://starwars.fandom.com/wiki/Mariusz_Gandzel>
@@ -129,5 +130,7 @@ Actors
 - Loronar Turbolaser Tower. I think it was from Essential Guide to Weapons
 - Map making props have been used by Maveritchell (P. Thompson).
 Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Sergienko</a> on <a href="https://unsplash.com/s/photos/forest-path-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Sergienko</a> on <a href="https://unsplash.com/s/photos/forest-path-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@olenkasergienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olena Sergienko</a> on <a href="https://unsplash.com/s/photos/forest-path-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- SD-6 Hulk Infantry Droid by https://starwars.fandom.com/wiki/Gonzalo_Flores
+  
   
