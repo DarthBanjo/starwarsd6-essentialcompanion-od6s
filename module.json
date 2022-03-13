@@ -41,6 +41,27 @@
 			"entity": "Item",
 			"type": "Item"
 		},
+		{
+			"name": "module-vehicles",
+			"label": "Star Wars D6 Vehicles & Artillery",
+			"path": "./packs/reupvehicles.db",
+			"entity": "Actor",
+			"type": "Actor"
+		},
+		{
+			"name": "module-starfighters",
+			"label": "Star Wars D6 Starfighters & Freighters",
+			"path": "./packs/reupstarfighter.db",
+			"entity": "Actor",
+			"type": "Actor"
+		},
+		{
+			"name": "module-gmchars",
+			"label": "Star Wars D6 Gamemaster Characters",
+			"path": "./packs/reupgmc.db",
+			"entity": "Actor",
+			"type": "Actor"
+		},
 		{	
 			"name": "module-bmacros",
 			"label": "Star Wars Macros",
