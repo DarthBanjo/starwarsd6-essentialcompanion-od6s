@@ -87,7 +87,7 @@
 			"type": "module",
 			"manifest": "https://raw.githubusercontent.com/algnc/od6s-star-wars/master/module.json"
 		}
-	]
+	],
 	"url" : "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT",
 	"manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
 	"download": "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/archive/refs/heads/main.zip"
