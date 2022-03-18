@@ -80,8 +80,7 @@
 	"dependencies": [
 		{
 			"name": "od6s",
-			"type": "system",
-			"manifest": "https://gitlab.com/api/v4/projects/23950825/packages/generic/od6s/0.0.0/system.json"
+			"type": "system"
 		},
 		{
 			"name": "od6s-star-wars",
