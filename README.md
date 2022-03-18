@@ -21,6 +21,9 @@ This module contains compendium packs for the following Star Wars D6 content:
 #### ⚖️ A Message from DarthBanjo: 
 This is a personal FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. I am not associated with REUP, I am just a community member. Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, seumas for their work on the OpenD6 Space System for FoundryVTT, and FoundryVTT's developers themselves. 
 
+Special thanks to https://gitlab.com/vtt2/opend6-space
+And to https://github.com/algnc/od6s-star-wars 
+
 #### ⚖️ Regarding Graphics:
 These packs contain icons for various skills and force abilities. The skills and abilities are .svg graphics created by DarthBanjo. The aurebesh font made by Pixel Saga might be used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution. 
 
