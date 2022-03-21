@@ -53,5 +53,5 @@ You are free to: **Share** -- copy and redistribute the material in any medium o
 ### REUP_CC: Star Wars Roleplaying Game Rulebook Creative Commons (CC)
 The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with a Creative Commons license. Many Icons came from there and you can find them in the /art/items/equipIcons/REUP_CC directory.
 
-### WEG_FAIR: Star Wars Wend Games Roleplaying Game Content (FAIR USE)
-The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old out-of-print sourcebooks.  
+### WEG_FAIR: Star Wars West End Games Roleplaying Game Content (FAIR USE)
+The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old out-of-print sourcebooks.  All of the Actor Tokens are also all from fair use of west end games content.
