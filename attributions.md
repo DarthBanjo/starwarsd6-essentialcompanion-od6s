@@ -30,8 +30,6 @@ for any purpose, even commercially. You can find them in the /art/items/equipIco
 - "Polyken_Duct_tape.jpg" by Markbritton, is marked with CC BY-SA 3.0.
 - "Graham And The Fire Extinguisher" by foilman is marked with CC BY-SA 2.0.
 - "Hatchet" By GWphotograph - Own work, CC BY-SA 4.0.
-- "Star Wars and the Power of Costume July 2018 27 (Rey's costume from Episode VII).jpg" by Michale Barera is marked with CC BY-SA 4.0.
-- "Leave it to my daughter to just leave her blaster lying on the bathroom floor. " by manicsquirrel is marked with CC BY-NC-SA 2.0.
 - "crossbow [431]" by brianjmatis is marked with CC BY-NC-SA 2.0.
 - "Sling" by Shearwater is marked with CC BY-NC-SA 2.0.
 - "Duelling Pistols" by hmerinomx is marked with CC BY-NC-SA 2.0.
