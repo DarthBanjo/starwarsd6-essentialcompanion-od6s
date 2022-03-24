@@ -49,6 +49,9 @@ Under Game Settings > Configure Settings
       - Metaphysics name: The Force
       - Metaphysics abbrevation: The Force
       - Metaphysics extranormal: Force Sensitive
+      - Customize Channel Skill: Control
+      - Customize Sense Skill: Sense
+      - Customize Transform Skill: Alter
       - Agility: Dexterity
       - Agi: DEX
       - Str: STR
