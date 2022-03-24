@@ -40,4 +40,4 @@ for any purpose, even commercially. You can find them in the /art/items/equipIco
 The Star Wars Roleplaying Game Revised Expanded Updated rulebook is marked with a Creative Commons license. Many Icons came from there and you can find them in the /art/items/equipIcons/REUP_CC directory.
 
 ### WEG_FAIR: Star Wars West End Games Roleplaying Game Content (FAIR USE)
-The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, when they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old out-of-print sourcebooks.  All of the Actor Tokens are also all from fair use of west end games content.
+The Star Wars Roleplaying Game was published by West End Games from 1987 to 1998, at which time they lost the license. Items in the /art/items/equipIcons/WEG_FAIR directory contain icons made from these old out-of-print sourcebooks.  Actor Tokens are also all from fair use of out of print and open source West End Games content.
