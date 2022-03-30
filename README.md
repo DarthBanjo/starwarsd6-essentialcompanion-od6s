@@ -2,7 +2,7 @@
 
 <p align="center"><img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
-This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print, and open source.  This is not a full game system--it relies on the OpenD6 Space System[\*](https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/blob/main/starwarsconfigchecklist.md) in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the fan-produced *Star Wars: Revised, Expanded and Updated* rulebook.
+This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print, and open source.  This is not a full game system--it relies on the OpenD6 Space System[\*](https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/blob/main/starwarsconfigchecklist.md) in Foundry Virtual Tabletop to work properly(which is also free and open source). This is a fan-compiled content module based on the fan-produced *Star Wars: Revised, Expanded and Updated* rulebook.
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json
 
@@ -15,7 +15,7 @@ This module contains compendium packs for the following Star Wars D6 content:
 - Equipment and Armor
 - Assorted Helpful Macros 
 - Weapons
-- Gamemaster Characters (In-Progress)
+- Typical Gamemaster Characters
 
 ## 👨‍⚖️ Disclaimers
 
