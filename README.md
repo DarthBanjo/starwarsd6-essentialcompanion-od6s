@@ -34,7 +34,9 @@ These compendium packs contain icons for various skills and force abilities. The
 
 For some gear and other items, Creative Commons content has been used. Actor tokens and other Star Wars graphics all make Fair Use of **out of print and freely available** West End Games content.
 [All the attributions for Creative Commons and Fair Use content may be found here.](https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/blob/main/attributions.md) 
-Some graphics have been created/drawn by DarthBanjo (actors or gear that did not exist in the original West End Games Star Wars Roleplaying game, like Prequel content), which is now also shared under a Creative Commons license. 
+Some graphics have been created/drawn by DarthBanjo (actors or gear that did not exist in the original West End Games Star Wars Roleplaying game, like Prequel content). These graphics created by DarthBanjo are now also shared under a Creative Commons license.
+
+⚖️ Regarding Content:
 
 #### ⚖️ Regarding Content: 
 This is a personal FoundryVTT Module, not intended for sale or profit. It's a fan-produced work of love with no intent to harm content producers. All references to the Star Wars, Expanded Universe, or any of the Star Wars films, characters, creatures, vehicles, droids, or other related content are ®, TM & © Lucasfilm Ltd. (LFL) and Walt Disney Corporation respectively. All Rights Reserved, Trademarks of LFL and Disney are not used with any express permission of the holder. In no way does the DarthBanjo intend to represent themselves (as an entity) as a license holder or trademark owner. This module is a "fan work" and is provided as a free exchange of information under a Creative Commons license.
