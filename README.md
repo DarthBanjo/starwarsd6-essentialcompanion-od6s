@@ -19,6 +19,11 @@ This module contains compendium packs for the following Star Wars D6 content:
 
 <p align="center">
   <img src="/art/pack_skills.png" alt="Image of the list of Skills included in this module" /*width="300"*/ >
+  <img src="/art/pack_skills_a.png" alt="Image of the list of Advanced Skills included in this module" /*width="300"*/ >
+  <img src="/art/pack_forcepowers.png" alt="Image of the list of Skills included in this module" /*width="300"*/ >
+  <img src="/art/pack_gear.png" alt="Image of the list of Skills included in this module" /*width="300"*/ >
+  <img src="/art/pack_weapons.png" alt="Image of the list of Skills included in this module" /*width="300"*/ >
+  <img src="/art/pack_gmpc.png" alt="Image of the list of Skills included in this module" /*width="300"*/ >
 
 </p>
 
