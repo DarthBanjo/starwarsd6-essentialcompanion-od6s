@@ -74,6 +74,6 @@
 		}
 	],
 	"url" : "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT",
-	"manifest": "https://raw.githubusercontent.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/main/module.json",
-	"download": "https://github.com/DarthBanjo/StarWarsD6_REUP_FoundryVTT/archive/refs/heads/main.zip"
+	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
+	"download": "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/archive/refs/heads/main.zip"
 }
