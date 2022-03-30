@@ -10,7 +10,7 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 This module contains compendium packs for the following Star Wars D6 content:
 - Skills
 - Advanced Skills 
-  -   Note: the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
+  -   **Note:** the advanced skills need manual editing by players/GMs. And the automatic advancement does not take into effect their character point cost. This is really just a list of Advanced skills for your games.
 - Force Powers and Force Skills 
 - Equipment and Armor
 - Assorted Helpful Macros 
