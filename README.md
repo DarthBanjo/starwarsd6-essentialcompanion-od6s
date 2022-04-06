@@ -32,7 +32,7 @@ This module contains compendium packs for the following Star Wars D6 content:
 #### ⚖️ Regarding Graphics:
 These compendium packs contain icons for various skills and force abilities. The **skills** and **force power** icons are graphics created by DarthBanjo. The aurebesh font made by Pixel Saga were used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution. 
 
-For some gear and other items, Creative Commons content has been used. Actor tokens and other Star Wars graphics all make Fair Use of **out of print and freely available** West End Games content.
+For some gear and other items, Creative Commons content has been used. Actor tokens and other Star Wars graphics all make Fair Use of **out of print and freely available** West End Games content. West End Games no longer exists.
 [All the attributions for Creative Commons and Fair Use content may be found here.](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/attributions.md) 
 Some graphics have been created/drawn by DarthBanjo (actors or gear that did not exist in the original West End Games Star Wars Roleplaying game, like Prequel content). These graphics created by DarthBanjo are now also shared under a Creative Commons license.
 
