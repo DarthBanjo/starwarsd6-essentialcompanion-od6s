@@ -61,6 +61,13 @@
 			"path": "./packs/reupgmpc.db",
 			"entity": "Actor",
 			"type": "Actor"
+		},
+		{	
+			"name": "module-starfs",
+			"label": "Star Wars D6 Starfighters",
+			"path": "./packs/reupstarfighter.db",
+			"entity": "Actor",
+			"type": "Actor"
 		}
 	],
 	"dependencies": [
