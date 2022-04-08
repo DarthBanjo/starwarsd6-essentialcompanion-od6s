@@ -2,7 +2,7 @@
 	"name": "starwarsd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
 	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"author": "Darth Banjo",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "9",
