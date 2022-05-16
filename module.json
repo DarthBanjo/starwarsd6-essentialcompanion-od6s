@@ -75,6 +75,12 @@
 			"path": "./packs/d6htemplates.db",
 			"entity": "Item",
 			"type": "Item"
+		},
+			"name": "module-d6hitems",
+			"label": "Support Items for Templates Templates",
+			"path": "./packs/d6templateitems.db",
+			"entity": "Item",
+			"type": "Item"
 		}
 	],
 	"dependencies": [
@@ -85,7 +91,7 @@
 		{
 			"name": "od6s-star-wars",
 			"type": "module"
-		}
+		},
 	],
 	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
 	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",

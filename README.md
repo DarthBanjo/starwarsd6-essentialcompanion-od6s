@@ -19,6 +19,8 @@ This module contains compendium packs for the following Star Wars D6 content:
 
 **Note:** The Advanced skills need manual editing to set the initial value to 1D by players/GMs. This is done by setting negative values on the skill sheet. Automatic advancement does not take into effect their doubled character point cost, nor will they add their value back onto their prerequisite skills automatically. 
 
+**Note:** Importing a character template's can take up to a minute as it searches for all the skills and items.
+
 <p align="center" >
   <img src="/art/pack_skills.png"  alt="Image of the list of Skills included in this module" width="150">
   <img src="/art/pack_skills_a.png"  alt="Image of the list of Advanced Skills included in this module" width="150" >
