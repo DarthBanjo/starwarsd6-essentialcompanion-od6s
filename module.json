@@ -92,7 +92,7 @@
 		{
 			"name": "od6s-star-wars",
 			"type": "module"
-		},
+		}
 	],
 	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
 	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
