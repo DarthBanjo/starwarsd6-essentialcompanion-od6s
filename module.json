@@ -78,7 +78,7 @@
 		},
 		{
 			"name": "module-d6hitems",
-			"label": "Support Items for Templates Templates",
+			"label": "Support Items for Templates",
 			"path": "./packs/d6templateitems.db",
 			"entity": "Item",
 			"type": "Item"
