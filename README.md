@@ -10,7 +10,7 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 This module contains compendium packs for the following Star Wars D6 content:
 - Skills & Advanced Skills 
 - Force Powers and Force Skills 
-- Character Templates from the D6Holocron (in-progress)
+- Character Templates from the D6Holocron[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/templateinfo.md) (in-progress. Still in progress, I'm in the letter C)
 - Equipment and Armor
 - Assorted Helpful Macros 
 - Weapons
