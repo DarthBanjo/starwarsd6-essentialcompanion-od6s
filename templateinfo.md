@@ -9,6 +9,13 @@ As I was working on these templates, I realized some of them were too specific a
 The purpose of this is so that:
 - different species may more easily be added by selecting a different species template.
 - different time periods may more easily be played in and still make use of the same templates.
+- I understand this might yield multiple templates that are very similar. (Rodian Gunner and Ship's Gunner come to mind, and Liaison/Military Liaison) That's ok, a player or GM can pick the best one for their games. 
 
 I will document the changes in this file.
+
+| Old Template Name | Updated Template Name | 
+| --------------- | --------------- | 
+| Alien Student of the Force | Student of the Force | 
+| Alliance Agitator | Agitator | 
+| Alliance Liaison | Liaison | 
 
