@@ -2,6 +2,7 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 
 # **Developer's Notes**
 - D6holocron had some homebrew templates on them, I have balanced the Jedi Sentinel, Jedi Guardian, and Jedi Consular by reducing the number of Force Powers they start with from 9 to 3.
+- I updated the Clone Template homebrew template to be more in line with the Clone Trooper gamemaster character from the REUP rulebook.
 - I will standardize the character and force points that each template begins with in order to match the rulebook. (Some started with 10CP, some with 5CP. Now they all have 5CP, and 1 force point if they are not force sensitive. 2 if they are.)
 
 # **Generalization:** 
@@ -18,4 +19,14 @@ I will document the changes in this file.
 | Alien Student of the Force | Student of the Force | 
 | Alliance Agitator | Agitator | 
 | Alliance Liaison | Liaison | 
+| Alliance Observer | Military Observer |
+| Annoying Squib | Annoying Good-Natured Alien |
+| Arrogant Imperial Noble | Arrogant Royal Noble |
+| Barabel Shockboxer | Shockboxer |
+| Bimm Bard | Bard |
+| CompForce Assault Trooper | Assault Trooper |
+| COMPNOR Military Liaison | Military Liaison |
+| COMPNOR SAGroup Youth | Young Imperial Citizen | 
+| Devaronian Grifter | Grifter |
+| Duro Merchant | Spacer | 
 
