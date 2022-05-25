@@ -33,7 +33,23 @@ I will document the changes in this file.
 | Freeworlds Artist | Artist |
 | Freeworlds Trader | Independent Trader |
 | Herglic Archaeologist | Archaeologist | 
-| Herglic Gambler | Gambling Hustler |
+| Herglic Gambler | Hustler |
 | Imperial Adjutant | Military Adjutant |
 | Imperial Assassin-In-Training | Assassin-In-Training |
 | Imperial Diplomat | Military Diplomat |
+| Ex-Imperial Commando | Commando |
+| Ex-Imperial Scout | Ex-Military Scout |
+| Imperial Double Agent | Double Agent |
+| Imperial Intelligence Agent | Intelligence Agent |
+| ISB Investigations Specialist | Investigator |
+| ISB Protocol Officer | Protocol Officer |
+| Ithorian Storyteller | Old Storyteller |
+| JAN Operative | Operative |
+| Merc | Mercenary | 
+| Klatooinan Roustabout | Roustabout |
+
+
+
+| Quarren Deep Hunter | Deep Sea Hunter |
+| Quarren Miner | Miner |
+| Quarren Swindler | Swindler |
