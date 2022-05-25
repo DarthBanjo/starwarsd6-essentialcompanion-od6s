@@ -26,7 +26,14 @@ I will document the changes in this file.
 | Bimm Bard | Bard |
 | CompForce Assault Trooper | Assault Trooper |
 | COMPNOR Military Liaison | Military Liaison |
-| COMPNOR SAGroup Youth | Young Imperial Citizen | 
+| COMPNOR SAGroup Youth | Partisan Youth | 
 | Devaronian Grifter | Grifter |
 | Duro Merchant | Spacer | 
-
+| Ewok Warrior | Primitive Warrior |
+| Freeworlds Artist | Artist |
+| Freeworlds Trader | Independent Trader |
+| Herglic Archaeologist | Archaeologist | 
+| Herglic Gambler | Gambling Hustler |
+| Imperial Adjutant | Military Adjutant |
+| Imperial Assassin-In-Training | Assassin-In-Training |
+| Imperial Diplomat | Military Diplomat |
