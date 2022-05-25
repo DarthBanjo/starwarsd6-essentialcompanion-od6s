@@ -30,6 +30,7 @@ I will document the changes in this file.
 | Devaronian Grifter | Grifter |
 | Duro Merchant | Spacer | 
 | Ewok Warrior | Primitive Warrior |
+| Ewok Shaman | Primitive Shaman |
 | Freeworlds Artist | Artist |
 | Freeworlds Trader | Independent Trader |
 | Herglic Archaeologist | Archaeologist | 
@@ -41,15 +42,38 @@ I will document the changes in this file.
 | Ex-Imperial Scout | Ex-Military Scout |
 | Imperial Double Agent | Double Agent |
 | Imperial Intelligence Agent | Intelligence Agent |
+| Imperial Morale Officer | Morale Officer |
 | ISB Investigations Specialist | Investigator |
 | ISB Protocol Officer | Protocol Officer |
 | Ithorian Storyteller | Old Storyteller |
 | JAN Operative | Operative |
 | Merc | Mercenary | 
 | Klatooinan Roustabout | Roustabout |
-
-
-
+| New Republic Bureaucrat | Bureaucrat |
+| New Republic Intelligence Operative | Intelligence Operative |
+| Mon Calamari | Gentle Alien |
+| Mon Calamari Mediator | Mediator |
+| Mon Calamari Courier | Courier |
+| Mon Calamari Crewman | Crewmember |
+| Mon Calamari Medic | Medic |
+| Mon Calamari Pilot | Alien Pilot |
+| Mon Calamari Professor | Professor |
+| Mon Calamari Spacer | Naive Spacer |
+| Mon Calamari Technician | Field Technician |
+| Mrlssti Swindler | Bilker |
+| Mrlssti Roving Entertainer | Roving Entertainer |
+| Mrlssti Tutor | Tutor |
+| Snivvian Artist | Poet |
+| Rebel Conspirator | Sympathizer |
+| Quarren Street Hustler | Street Hustler |
 | Quarren Deep Hunter | Deep Sea Hunter |
 | Quarren Miner | Miner |
 | Quarren Swindler | Swindler |
+| Rebel Saboteur | Saboteur |
+| Retired Imperial Captain | Retired Captain |
+| Revwien Tyia Adept | Tyia Adept |
+| Rodian Dramatist | Dramatist |
+| Rodian Gunner | Hunter |
+| TIE Fighter Pilot | Military Pilot |
+| Twilek Co-pilot | Co-Pilot|
+
