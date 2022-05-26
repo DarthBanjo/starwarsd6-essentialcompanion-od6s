@@ -77,9 +77,9 @@
 			"type": "Item"
 		},
 		{	
-			"name": "module-d6stemplates",
+			"name": "module-d6sptemplates",
 			"label": "D6 Species Templates",
-			"path": "./packs/d6stemplates.db",
+			"path": "./packs/d6sptemplates.db",
 			"entity": "Item",
 			"type": "Item"
 		},		
