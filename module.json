@@ -71,14 +71,14 @@
 		},
 		{	
 			"name": "module-d6htemplates",
-			"label": "D6 Holocron Character Templates",
+			"label": "D6 Holocron Character Templates (In-Progress)",
 			"path": "./packs/d6htemplates.db",
 			"entity": "Item",
 			"type": "Item"
 		},
 		{	
 			"name": "module-d6sptemplates",
-			"label": "D6 Species Templates",
+			"label": "D6 Species Templates (In-Progress)",
 			"path": "./packs/d6sptemplates.db",
 			"entity": "Item",
 			"type": "Item"
