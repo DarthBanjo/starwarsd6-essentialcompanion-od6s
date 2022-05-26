@@ -51,6 +51,7 @@ I will document the changes in this file.
 | Klatooinan Roustabout | Roustabout |
 | New Republic Bureaucrat | Bureaucrat |
 | New Republic Intelligence Operative | Intelligence Operative |
+| New Republic Security Force Agent | Security Force Agent |
 | Mon Calamari | Gentle Alien |
 | Mon Calamari Mediator | Mediator |
 | Mon Calamari Courier | Courier |
@@ -74,6 +75,26 @@ I will document the changes in this file.
 | Revwien Tyia Adept | Tyia Adept |
 | Rodian Dramatist | Dramatist |
 | Rodian Gunner | Hunter |
+| Rodian Pacifist | Pacifist |
+| Rookie New Republic Pilot | Rookie Pilot |
+| Sludir Crate-Buster | Crate-Buster |
+| SpecForce Infiltrator | Infiltrator |
+| SpecForce Driver/Pilot | Combat Driver/Pilot |
+| SpecForce Pathfinder | Pathfinder |
+| SpecForce Heavy Weapons Specialist | Heavy Weapons Specialist |
+| SpecForce Scanner/Communications Operator | Scanner/Communications Operator |
+| SpecForce Technician/Engineer/Medic | Fixer |
+| SpecForce Urban Combat Specialist | Urban Combat Specialist |
+| SpecForce Wilderness Fighter | Wilderness Fighter |
+| Squib Trader | Curious Alien Trader |
+| Sullustan Engineer | Engineer |
+| Sullustan Trader | Freight Trader |
+| Svivreni Mineralogist | Mineralogist |
 | TIE Fighter Pilot | Military Pilot |
 | Twilek Co-pilot | Co-Pilot|
-
+| Unemployed Imperial Bureaucrat | Unemployed Bureaucrat |
+| Whiphid Collector | Collector |
+| Wookiee | Friendly Alien |
+| Wookie First Mate | Burly First Mate |
+| Wookie Bounty Hunter | Large Bounty Hunter |
+| Wroonian Captain | Dashing Captain |
