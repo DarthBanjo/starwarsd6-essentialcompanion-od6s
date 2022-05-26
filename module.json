@@ -2,7 +2,7 @@
 	"name": "starwarsd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
 	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
-	"version": "1.6.2",
+	"version": "1.6.3",
 	"author": "Darth Banjo",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "9.249",
@@ -77,7 +77,7 @@
 			"type": "Item"
 		},
 		{	
-			"name": "module-d6htemplates",
+			"name": "module-d6stemplates",
 			"label": "D6 Species Templates",
 			"path": "./packs/d6stemplates.db",
 			"entity": "Item",
