@@ -21,6 +21,8 @@ This module contains compendium packs for the following Star Wars D6 content:
 
 **Note:** Importing a character template can take up to a minute as it searches for all the skills and items.
 
+(https://youtu.be/OAaYCGtgBaw)
+
 <p align="center" >
   <img src="/art/pack_skills.png"  alt="Image of the list of Skills included in this module" width="150">
   <img src="/art/pack_skills_a.png"  alt="Image of the list of Advanced Skills included in this module" width="150" >
