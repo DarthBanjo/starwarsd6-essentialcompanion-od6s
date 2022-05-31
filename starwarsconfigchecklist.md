@@ -31,7 +31,12 @@ Under Game Settings > Configure Settings:
       - Character Sheet Field 1: Dark Side Points
       - Short Name Custom Field 1: Dark Side Points
       - Custom Field 1 Type: Number
-    - Change Rules Options:
+   - Deadliness Options (This affects the Health Estimate Module):
+      - Deadliness: Standard OpenD6 wound levels.
+      - NPC Deadliness: Standard OpenD6 wound levels.
+      - Creature Deadliness: Standard OpenD6 wound levels.
+      - (If you use the Health Estimate Module, set the Stages to: `Dead, Mortally Wounded, Incapacitated, Severely Wounded, Wounded, Stunned, Healthy`)
+   - Change Rules Options:
       - Use Wound levels
       - Optional Damage :white_large_square:
       - Hide advantages/disadvantages :white_check_mark:
