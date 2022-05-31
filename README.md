@@ -6,6 +6,9 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json
 
+##Setting Up Star Wars D6 on FoundryVTT
+[![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
+
 ## ✨ Contents:
 This module contains compendium packs for the following Star Wars D6 content:
 - Skills & Advanced Skills 
@@ -20,9 +23,6 @@ This module contains compendium packs for the following Star Wars D6 content:
 **Note:** The Advanced skills need manual editing to set the initial value to 1D by players/GMs. This is done by setting negative values on the skill sheet. Automatic advancement does not take into effect their doubled character point cost, nor will they add their value back onto their prerequisite skills automatically. 
 
 **Note:** Importing a character template can take up to a minute as it searches for all the skills and items.
-
-(https://youtu.be/OAaYCGtgBaw)
-[![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 <p align="center" >
   <img src="/art/pack_skills.png"  alt="Image of the list of Skills included in this module" width="150">
