@@ -22,6 +22,7 @@ This module contains compendium packs for the following Star Wars D6 content:
 **Note:** Importing a character template can take up to a minute as it searches for all the skills and items.
 
 (https://youtu.be/OAaYCGtgBaw)
+[![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 <p align="center" >
   <img src="/art/pack_skills.png"  alt="Image of the list of Skills included in this module" width="150">
