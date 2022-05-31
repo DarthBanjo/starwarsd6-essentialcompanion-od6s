@@ -6,7 +6,8 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json
 
-##Setting Up Star Wars D6 on FoundryVTT
+## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
+
 [![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 ## ✨ Contents:
