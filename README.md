@@ -8,7 +8,7 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 
 ## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
 
-<p align="center"> [![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw) </p>
+[![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 ## ✨ Contents:
 This module contains compendium packs for the following Star Wars D6 content:
