@@ -98,7 +98,8 @@
 		},
 		{
 			"name": "od6s-star-wars",
-			"type": "module"
+			"manifest": "https://raw.githubusercontent.com/algnc/od6s-star-wars/master/module.json",
+			"type": "module"			
 		}
 	],
 	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
