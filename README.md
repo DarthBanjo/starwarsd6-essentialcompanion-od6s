@@ -1,10 +1,14 @@
 # The Essential Companion to Star Wars D6 on OpenD6 Space for FoundryVTT
 
-<p align="center"><img src="/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
 This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print, and freely available.  This is not a full game system--it relies on the OpenD6 Space System[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) (which is also free and released under OpenD6 OGL) in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the fan-produced *Star Wars: Revised, Expanded and Updated* rulebook.
 
 > Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json
+
+## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
+
+[![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 ## ✨ Contents:
 This module contains compendium packs for the following Star Wars D6 content:
@@ -19,7 +23,7 @@ This module contains compendium packs for the following Star Wars D6 content:
 
 **Note:** The Advanced skills need manual editing to set the initial value to 1D by players/GMs. This is done by setting negative values on the skill sheet. Automatic advancement does not take into effect their doubled character point cost, nor will they add their value back onto their prerequisite skills automatically. 
 
-**Note:** Importing a character template's can take up to a minute as it searches for all the skills and items.
+**Note:** Importing a character template can take up to a minute as it searches for all the skills and items.
 
 <p align="center" >
   <img src="/art/pack_skills.png"  alt="Image of the list of Skills included in this module" width="150">
