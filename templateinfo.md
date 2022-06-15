@@ -5,7 +5,8 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 - I updated the Clone Template homebrew template to be more in line with the Clone Trooper gamemaster character from the REUP rulebook.
 - I standardized the character and force points that each template begins with in order to match the rulebook. (Some started with 10CP, some with 5CP. Now they all have 5CP, and 1 force point if they are not force sensitive. 2 if they are.)
 - I added (A) Podracing to the "Speeder Racer" template.
-- I added Artist as a Perception skill instead of Knowledge (to match OpenD6 Space)
+- I added Artist as a Perception skill instead of Knowledge (to match OpenD6 Space) (this skill came from the Freeworlds Artist template)
+- I added the Artist skill to the Holovid celebrity. I'll probably also add it to the Snivvian Artist.
 - I added Equipment Repair to some engineer/tinker-types, since this Technical skill was added after most of these templates were created.
 
 # **Generalization:** 
