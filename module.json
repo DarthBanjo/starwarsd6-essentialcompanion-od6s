@@ -6,6 +6,11 @@
 	"author": "Darth Banjo",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "9.249",
+	"languages": [
+		{ "lang": "en", "name": "English", "path": "lang/en.json" }
+	],
+	"esmodules": [ "src/starwarsd6.mjs" ],
+	"styles": [ "css/styles.css" ],
 	"packs": [{
 			"name": "module-reupskills",
 			"label": "Star Wars D6 Skills",
