@@ -1,0 +1,17 @@
+{
+	"starwarsd6": {
+		"name": "Configure OpenD6 Options",
+		"hint": "Configure the OpenD6 system settings to be specific to Star Wars D6",
+		"form": {
+			"desc": "This is a helper configurator. It will modify the OpenD6 system's settings to follow the Star Wars D6 system's terminology and mechanics. Below are various options for adjusting which mechanics are updated. You can run this configurator any time and it will simply override the previous settings with the new ones.",
+			"cancel": "Cancel",
+			"submit": "Submit",
+			"labels": "Update Labels",
+			"fields": "Change Custom Fields",
+			"deadly": "Deadliness Options (This affects the Health Estimate Module)",
+			"rules": "Change Rules Options"
+		},
+		"customize_fate_points": "Force Points",
+		"customize_fate_points_short": "Force Points"
+	}
+}
