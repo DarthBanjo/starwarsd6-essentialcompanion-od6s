@@ -51,6 +51,6 @@ This is a personal FoundryVTT Module, not intended for sale or profit. It's a fa
 Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, seumas for their work on the OpenD6 Space System for FoundryVTT, and FoundryVTT's developers themselves. 
 
 Special thanks go out to:
-Seumas: https://gitlab.com/vtt2/opend6-space
-Algnc: https://github.com/algnc/od6s-star-wars 
-Flamewave000: https://github.com/flamewave000
+- Seumas: https://gitlab.com/vtt2/opend6-space
+- Algnc: https://github.com/algnc/od6s-star-wars 
+- Flamewave000: https://github.com/flamewave000
