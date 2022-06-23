@@ -36,6 +36,6 @@
 		"customize_knowledge_name_short": "KNO",
 		"customize_perception_name_short": "PER",
 		"customize_technical_name_short": "TEC",
-		"brawl_attribute": "str",
+		"brawl_attribute": "str"
 	}	
 }
