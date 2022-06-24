@@ -11,7 +11,6 @@ This module now includes options to apply Star Wars D6 2nd Edition labels and ru
 <p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/configurator.png" alt="Image of the Configurator dialog box" width="450"/></p>
 
 ## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
-This video was made before the configurator.
 [![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 ## ✨ Contents:
