@@ -8,6 +8,7 @@ This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to 
 
 ## New! OpenD6 Space to Star Wars D6 Configurator!
 This module now includes options to apply Star Wars D6 2nd Edition labels and rules options to an OpenD6 Space game with a single click in the module settings. This eliminates much of the set up for a new world in FoundryVTT. It applies [these settings](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) to your world. After clicking the configuration button, you may go in and change additional settings manually to set your game to 1E, or 2E REUP.
+<p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/configurator.png" alt="Image of the Configurator dialog box" width="300"/></p>
 
 ## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
 This video was made before the configurator.
