@@ -17,7 +17,7 @@ This module now includes options to apply Star Wars D6 2nd Edition labels and ru
 This module contains compendium packs for the following Star Wars D6 content:
 - Skills & Advanced Skills 
 - Force Powers and Force Skills 
-- Character Templates from Star Wars D6[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/templateinfo.md) (in-progress: 42% ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%)
+- Character Templates from Star Wars D6[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/templateinfo.md) (in-progress: 92/180)
 - Equipment and Armor
 - Assorted Helpful Macros 
 - Weapons
@@ -54,6 +54,7 @@ This is a personal FoundryVTT Module, not intended for sale or profit. It's a fa
 Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, seumas for their work on the OpenD6 Space System for FoundryVTT, and FoundryVTT's developers themselves. 
 
 Special thanks go out to:
-- Seumas: https://gitlab.com/vtt2/opend6-space
-- Algnc: https://github.com/algnc/od6s-star-wars 
-- Flamewave000: https://github.com/flamewave000
+- Seumas: https://gitlab.com/vtt2/opend6-space for their work on the OpenD6 Space system.
+- Algnc: https://github.com/algnc/od6s-star-wars for their work on the West End Games-style character sheets.
+- Flamewave000: https://github.com/flamewave000 for their work on the configurator.
+- Mcbobbo: https://github.com/mcbobbo for supplying text for D6 Holocron Character templates.
