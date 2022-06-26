@@ -9,6 +9,8 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 - I added the Artist skill to the Holovid celebrity. I'll probably also add it to the Snivvian Artist.
 - I added Equipment Repair to some engineer/tinker-types, since this Technical skill was added after most of these templates were created.
 - A few of the Quarren Templates were written so poorly.. I felt that the Deep Hunter especially was a missed opportunity to work on aquatic vehicles. I added those skills.
+- I added the Sith Apprentice to add some variety in force users, based off a character from Galaxy Guide 16.
+- I added the Peacemaker template based off a character in the Tales of the Jedi Companion.
 
 # **Generalization:** 
 As I was working on these templates, I realized some of them were too specific and would never see play out of a narrow set of games.  When the game was released, these templates had names that included some species, or whether they worked for the Alliance or Imperials.
