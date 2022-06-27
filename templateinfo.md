@@ -12,7 +12,7 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 - I added the Sith Apprentice to add some variety in force users, based off a character from Galaxy Guide 16.
 - I added the Peacemaker template based off a character in the Tales of the Jedi Companion.
 - I added (A) Computer Engingeering to the Slicer template.
-- I found some homebrew Dark Side templates in Galaxy Guide 14: The Dark Side. Their stats were all balanced at 18D, but their starting Force powers were not. I have included these four, but reduced their number of starting powers for balance.
+- I found some homebrew Dark Side templates in Galaxy Guide 14: The Dark Side. Their stats were all balanced at 18D, but their starting Force powers and equipment were not. I have included these four, but reduced their number of starting powers and equipment for balance. I may have also rewritten background and personality capsules.
     - Fallen Jedi
     - Dark Jedi Warrior
     - Banished Noble
