@@ -47,8 +47,7 @@ class ConfigureOpenD6Options extends FormApplication {
 				{ id: 'labels', on: state.labels ?? true, desc: 'starwarsd6.form.labels' },
 				{ id: 'fields', on: state.fields ?? true, desc: 'starwarsd6.form.fields' },
 				{ id: 'deadly', on: state.deadly ?? true, desc: 'starwarsd6.form.deadly' },
-				{ id: 'rules', on: state.rules ?? true, desc: 'starwarsd6.form.rules' },
-				{ id: 'rules1e', on: state.rules1e ?? true, desc: 'starwarsd6.form.rules1e' }
+				{ id: 'rules', on: state.rules ?? true, desc: 'starwarsd6.form.rules' }
 			]
 		};
 	}
@@ -134,10 +133,7 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'flat_skills', false);
 		await game.settings.set('od6s', 'pip_per_dice', 3);
 	}
-	
-	async updateRules1e() {
-		await game.settings.set('od6s', 'use_wild_die', false);
-	}
+
 
 	/*
 
