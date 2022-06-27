@@ -10,7 +10,6 @@
 			"fields": "Change Custom Fields (This adds Dark Side Points)",
 			"deadly": "Deadliness Options (This affects the Health Estimate Module)",
 			"rules": "Change Rules Options"
-			"rules1e": "Check this box to use the Wild Die. (Uncheck this if you want 1st Edition)"
 		},
 		"customize_fate_points": "Force Points",
 		"customize_fate_points_short": "FPs",
