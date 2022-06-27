@@ -43,6 +43,9 @@ Under Game Settings > Configure Settings:
       - Creature Deadliness: Standard OpenD6 wound levels.
       - (If you use the Health Estimate Module, set the Stages to: `Dead, Mortally Wounded, Incapacitated, Severely Wounded, Wounded, Stunned, Healthy`)
 
+### Rules 1E
+   - No Wild Die
+
 ### Rules 2nd
    - Change Rules Options:
       - Use Wound levels
