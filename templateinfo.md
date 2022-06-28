@@ -66,7 +66,7 @@ I will document the changes in this file.
 | New Republic Bureaucrat | Bureaucrat |
 | New Republic Intelligence Operative | Intelligence Operative |
 | New Republic Security Force Agent | Security Force Agent |
-| Mon Calamari | Gentle Alien |
+| Mon Calamari | Militant Alien |
 | Mon Calamari Mediator | Mediator |
 | Mon Calamari Courier | Courier |
 | Mon Calamari Crewman | Crewmember |
