@@ -1,10 +1,12 @@
 
 
 # \*📝 Notes for setting up D6 Space to host a Star Wars D6 game 
-*(since I know that I will have to reinstall the game world someday):*
+
 
 Under Game Settings > Configure Settings:
 - Modify System Settings
+
+### Labels
    - Change custom labels:
       - Fate Points: Force Points
       - Short Name Fate Points: Force Points
@@ -27,15 +29,24 @@ Under Game Settings > Configure Settings:
       - Kno: KNO
       - Per: PER
       - Tec: TEC
-    - Change Custom Fields:
+ 
+ ### Custom Fields (This adds Dark Side Points)
+   - Change Custom Fields:
       - Character Sheet Field 1: Dark Side Points
       - Short Name Custom Field 1: Dark Side Points
       - Custom Field 1 Type: Number
-   - Deadliness Options (This affects the Health Estimate Module):
+
+### Deadliness Options (This affects the Health Estimate Module):
+   - Deadliness
       - Deadliness: Standard OpenD6 wound levels.
       - NPC Deadliness: Standard OpenD6 wound levels.
       - Creature Deadliness: Standard OpenD6 wound levels.
       - (If you use the Health Estimate Module, set the Stages to: `Dead, Mortally Wounded, Incapacitated, Severely Wounded, Wounded, Stunned, Healthy`)
+
+### Rules 1E
+   - No Wild Die
+
+### Rules 2nd
    - Change Rules Options:
       - Use Wound levels
       - Optional Damage :white_large_square:

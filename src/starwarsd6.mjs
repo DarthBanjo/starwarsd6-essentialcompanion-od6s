@@ -65,6 +65,7 @@ class ConfigureOpenD6Options extends FormApplication {
 		if (formData.fields) await this.updateFields();
 		if (formData.deadly) await this.updateDeadly();
 		if (formData.rules) await this.updateRules();
+		if (formData.rules1e) await this.updateRules1e();
 	}
 
 	async updateLabels() {
@@ -132,6 +133,7 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'flat_skills', false);
 		await game.settings.set('od6s', 'pip_per_dice', 3);
 	}
+
 
 	/*
 
