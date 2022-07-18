@@ -9,7 +9,7 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 - I added the Artist skill to the Holovid celebrity. I'll probably also add it to the Snivvian Artist.
 - I added Equipment Repair to some engineer/tinker-types, since this Technical skill was added after most of these templates were created.
 - A few of the Quarren Templates were written so poorly.. I felt that the Deep Hunter especially was a missed opportunity to work on aquatic vehicles. I added those skills.
-- I added the Sith Apprentice to add some variety in force users, based off a character from Galaxy Guide 16.
+- I created the Sith Apprentice to add some variety and allow for a dark-side force user, based off a gamemaster character from Galaxy Guide 16.
 - I added the Peacemaker template based off a character in the Tales of the Jedi Companion.
 - I added (A) Computer Engingeering to the Slicer template.
 - I found some homebrew Dark Side templates in Galaxy Guide 14: The Dark Side. Their stats were all balanced at 18D, but their starting Force powers and equipment were not. I have included these four, but reduced their number of starting powers/equipment for balance. I've increased their starting Dark Side Points to 3 each to match the Sith Apprentice gamemaster character. I may have also rewritten background and personality capsules.
@@ -17,6 +17,7 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
     - Dark Jedi Warrior
     - Banished Noble
     - Alien Sith Warrior
+- I changed the skills assigned to the Quarren Miner. They started with the 1E skill list and I added some skills that a miner might have. I also added a beamdrill and vibropick to their starting equipment.
 
 # **Generalization:** 
 As I was working on these templates, I realized some of them were too specific and would never see play out of a narrow set of games.  When the game was released, these templates had names that included some species, or whether they worked for the Alliance or Imperials.
