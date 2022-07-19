@@ -74,7 +74,7 @@ I will document the changes in this file.
 | Mon Calamari Medic | Medic |
 | Mon Calamari Pilot | Alien Pilot |
 | Mon Calamari Professor | Professor |
-| Mon Calamari Spacer | Naive Spacer |
+| Mon Calamari Spacer | Apprentice Spacer |
 | Mon Calamari Technician | Field Technician |
 | Mrlssti Swindler | Bilker |
 | Mrlssti Roving Entertainer | Roving Entertainer |
