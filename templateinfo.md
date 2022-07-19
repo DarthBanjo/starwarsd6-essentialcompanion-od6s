@@ -62,7 +62,7 @@ I will document the changes in this file.
 | ISB Protocol Officer | Protocol Officer |
 | Ithorian Storyteller | Old Storyteller |
 | JAN Operative | Extremist |
-| Jawa Trader | Tinker |
+| Jawa Trader | Junk Trader |
 | Merc | Mercenary | 
 | Klatooinan Roustabout | Roustabout |
 | New Republic Bureaucrat | Bureaucrat |
