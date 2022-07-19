@@ -61,7 +61,7 @@ I will document the changes in this file.
 | ISB Investigations Specialist | Investigator |
 | ISB Protocol Officer | Protocol Officer |
 | Ithorian Storyteller | Old Storyteller |
-| JAN Operative | Partisan |
+| JAN Operative | Extremist |
 | Merc | Mercenary | 
 | Klatooinan Roustabout | Roustabout |
 | New Republic Bureaucrat | Bureaucrat |
