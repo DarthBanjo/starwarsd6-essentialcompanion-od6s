@@ -17,7 +17,7 @@ This module now includes options to apply Star Wars D6 2nd Edition labels and ru
 This module contains compendium packs for the following Star Wars D6 content:
 - Skills & Advanced Skills 
 - Force Powers and Force Skills 
-- Character Templates from Star Wars D6[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/templateinfo.md) (in-progress: 134/180)
+- Character Templates from Star Wars D6[\*](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/templateinfo.md)
 - Equipment and Armor
 - Assorted Helpful Macros 
 - Weapons
@@ -36,6 +36,7 @@ This module contains compendium packs for the following Star Wars D6 content:
   <img src="/art/pack_weapons.png"  alt="Image of the list of Weapons included in this module" width="150" >
   <img src="/art/pack_gmpc.png"  alt="Image of the list of Gamemaster Characters included in this module" width="150" >
   <img src="/art/pack_starfighters.png"  alt="Image of the list of Starfighters included in this module" width="150" >
+  <img src="/art/pack_templates.png"  alt="Image of the list of Character templates included in this module" width="600" >
 </p>
 
 
