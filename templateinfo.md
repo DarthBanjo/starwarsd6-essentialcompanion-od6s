@@ -15,7 +15,7 @@ mcbobbo has provided a text export of the D6 Holocron's character templates. The
 - I found some homebrew Dark Side templates in Galaxy Guide 14: The Dark Side. Their stats were all balanced at 18D, but their starting Force powers and equipment were not. I have included these four, but reduced their number of starting powers/equipment for balance. I've increased their starting Dark Side Points to 3 each to match the Sith Apprentice gamemaster character. I may have also rewritten background and personality capsules.
     - Fallen Jedi
     - Dark Jedi Warrior
-    - Banished Noble
+    - Banished Noble / Dark Sorceror
     - Alien Sith Warrior
 - I changed the skills assigned to the Quarren Miner. They started with the 1E skill list and I added some skills that a miner might have. I also added a beamdrill and vibropick to their starting equipment.
 
