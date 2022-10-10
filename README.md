@@ -1,6 +1,6 @@
 # The Essential Companion to Star Wars D6 on OpenD6 Space for FoundryVTT
 
-##This module currently only supports version 9.
+## This module currently only supports version 9.
 
 <p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
