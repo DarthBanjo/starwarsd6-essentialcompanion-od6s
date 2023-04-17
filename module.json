@@ -2,10 +2,26 @@
 	"name": "starwarsd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
 	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
-	"version": "1.8.0",
-	"author": "Darth Banjo",
-	"minimumCoreVersion": "0.8.6",
-	"compatibleCoreVersion": "9.249",
+	"version": "2.0.0",
+	"authors": [
+          {
+            "name": "Darth Banjo"
+          }
+        ],
+        "relationships": {
+          "systems": [
+            {
+              "id": "od6s",
+              "type": "system",
+              "compatibility": [
+                {
+                  "minimum": "0.7.8",
+                  "verified": "0.7.8"
+                }
+              ]
+            }
+          ]
+        },
 	"languages": [
 		{ "lang": "en", "name": "English", "path": "lang/en.json" }
 	],
@@ -98,11 +114,11 @@
 	],
 	"dependencies": [
 		{
-			"name": "od6s",
+			"id": "od6s",
 			"type": "system"
 		},
 		{
-			"name": "od6s-star-wars",
+			"id": "od6s-star-wars",
 			"manifest": "https://raw.githubusercontent.com/algnc/od6s-star-wars/master/module.json",
 			"type": "module"			
 		}
