@@ -1,114 +1,123 @@
 {
-	"name": "starwarsd6-essentialcompanion-od6s",
-	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
-	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
+	"name": "fantasyd6-essentialcompanion-od6s",
+	"title": "The Essential Companion to Fantasy D6 on OpenD6 Space",
+	"description": "A collection of Fantasy Roleplaying Game content to facilitate turning an OpenD6 Space game into a Fantasy D6 game.",
 	"version": "11.1.0",
-  	"compatibility": {
-    		"minimum": "10",
-    		"verified": "11.300",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "11.300",
 		"maximum": "11"
-  	},
+	},
 	"authors": [
-          {
-            "name": "Darth Banjo"
-          }
-        ],
-        "relationships": {
-          "systems": [
-            {
-              "id": "od6s",
-              "type": "system",
-              "compatibility": [
-                {
-                  "minimum": "0.7.13",
-                  "verified": "0.7.13"
-                }
-              ]
-            }
-          ]
-        },
-	"languages": [
-		{ "lang": "en", "name": "English", "path": "lang/en.json" }
+		{
+			"name": "Darth Banjo"
+		}
 	],
-	"esmodules": [ "src/starwarsd6.mjs" ],
-	"styles": [ "css/styles.css" ],
-	"packs": [{
+	"relationships": {
+		"systems": [
+			{
+				"id": "od6s",
+				"type": "system",
+				"compatibility": [
+					{
+						"minimum": "0.7.13",
+						"verified": "0.7.13"
+					}
+				]
+			}
+		]
+	},
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"esmodules": [
+		"src/starwarsd6.mjs"
+	],
+	"styles": [
+		"css/styles.css"
+	],
+	"packs": [
+		{
 			"name": "module-reupskills",
-			"label": "Star Wars D6 Skills",
+			"label": "Fantasy D6 Skills",
 			"path": "./packs/reupskills.db",
 			"entity": "Item",
 			"type": "Item"
 		},
 		{
 			"name": "module-advskills",
-			"label": "Star Wars D6 Advanced Skills",
+			"label": "Fantasy D6 Advanced Skills",
 			"path": "./packs/advskills.db",
 			"entity": "Item",
 			"type": "Item"
-		}, 
-		{	
+		},
+		{
 			"name": "module-forcepow",
-			"label": "Star Wars D6 Force Powers",
+			"label": "Fantasy D6 Force Powers",
 			"path": "./packs/reuppowers.db",
 			"entity": "Item",
 			"type": "Item"
 		},
-		{	
+		{
 			"name": "module-weaps",
-			"label": "Star Wars D6 Weapons",
+			"label": "Fantasy D6 Weapons",
 			"path": "./packs/reupweaps.db",
 			"entity": "Item",
 			"type": "Item"
 		},
-		{	
+		{
 			"name": "module-equip",
-			"label": "Star Wars D6 Personal Equipment",
+			"label": "Fantasy D6 Personal Equipment",
 			"path": "./packs/reupgear.db",
 			"entity": "Item",
 			"type": "Item"
 		},
-		{	
+		{
 			"name": "module-bmacros",
-			"label": "Star Wars Macros",
+			"label": "Fantasy Macros",
 			"path": "./packs/banjomacros.db",
 			"entity": "Macro",
 			"type": "Macro"
 		},
-		{	
+		{
 			"name": "module-commodity",
-			"label": "Star Wars General Goods",
+			"label": "Fantasy General Goods",
 			"path": "./packs/reupcommodity.db",
 			"entity": "Item",
 			"type": "Item"
 		},
-		{	
+		{
 			"name": "module-gamemasterchars",
-			"label": "Star Wars D6 Gamemaster Characters",
+			"label": "Fantasy D6 Gamemaster Characters",
 			"path": "./packs/reupgmpc.db",
 			"entity": "Actor",
 			"type": "Actor"
 		},
-		{	
+		{
 			"name": "module-starfs",
-			"label": "Star Wars D6 Starfighters",
+			"label": "Fantasy D6 Starfighters",
 			"path": "./packs/reupstarfighter.db",
 			"entity": "Actor",
 			"type": "Actor"
 		},
-		{	
+		{
 			"name": "module-d6htemplates",
-			"label": "Star Wars D6 Character Templates",
+			"label": "Fantasy D6 Character Templates",
 			"path": "./packs/d6htemplates.db",
 			"entity": "Item",
 			"type": "Item"
 		},
-		{	
+		{
 			"name": "module-d6sptemplates",
-			"label": "Star Wars D6 Species Templates (In-Progress)",
+			"label": "Fantasy D6 Species Templates (In-Progress)",
 			"path": "./packs/d6sptemplates.db",
 			"entity": "Item",
 			"type": "Item"
-		},		
+		},
 		{
 			"name": "module-d6hitems",
 			"label": "Support Items for Templates",
@@ -117,7 +126,7 @@
 			"type": "Item"
 		}
 	],
-	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
-	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
-	"download": "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/archive/refs/heads/main.zip"
+	"url": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s",
+	"manifest": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/fantasy-adaptation/module.json",
+	"download": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/fantasy-adaptation/archive/refs/heads/main.zip"
 }
