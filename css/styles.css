@@ -1,26 +1,26 @@
-#swd6-config>section {
+#fd6-config>section {
 	display: grid;
 	grid-template-columns: max-content 1fr;
 	align-items: center;
 	margin-bottom: 1em;
 }
 
-#swd6-config>section input {
+#fd6-config>section input {
 	grid-column: 1;
 }
 
-#swd6-config>section label {
+#fd6-config>section label {
 	grid-column: 2;
 }
 
-#swd6-config>footer {
+#fd6-config>footer {
 	display: flex;
 }
 
-#swd6-config>footer>button.cancel {
+#fd6-config>footer>button.cancel {
 	flex: 1;
 }
 
-#swd6-config>footer>button.submit {
+#fd6-config>footer>button.submit {
 	flex: 1;
 }

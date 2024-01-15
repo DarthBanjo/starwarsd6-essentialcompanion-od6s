@@ -2,7 +2,7 @@
 	"name": "fantasyd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Fantasy D6 on OpenD6 Space",
 	"description": "A collection of Fantasy Roleplaying Game content to facilitate turning an OpenD6 Space game into a Fantasy D6 game.",
-	"version": "11.1.0",
+	"version": "0.1.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11.300",
@@ -10,7 +10,8 @@
 	},
 	"authors": [
 		{
-			"name": "Darth Banjo"
+			"id": "SogeMoge",
+			"discord": "sogemoge"
 		}
 	],
 	"relationships": {

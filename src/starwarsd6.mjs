@@ -1,5 +1,5 @@
 
-const MOD_NAME = 'starwarsd6-essentialcompanion-od6s';
+const MOD_NAME = 'fantasyd6-essentialcompanion-od6s';
 const MENU_NAME = 'ConfigureOpenD6Options';
 const PREF_STATE = 'ConfigState';
 
@@ -7,9 +7,9 @@ const PREF_STATE = 'ConfigState';
 Hooks.on('init', () => {
 	game.settings.registerMenu(MOD_NAME, MENU_NAME, {
 		restricted: true,
-		name: 'starwarsd6.name',
-		hint: 'starwarsd6.hint',
-		label: 'starwarsd6.name',
+		name: 'fantasyd6.name',
+		hint: 'fantasyd6.hint',
+		label: 'fantasyd6.name',
 		icon: 'fas fa-cog',
 		type: ConfigureOpenD6Options
 	});
@@ -35,7 +35,7 @@ class ConfigureOpenD6Options extends FormApplication {
 			submitOnClose: false,
 			closeOnSubmit: true,
 			width: 500,
-			title: game.i18n.localize("starwarsd6.name")
+			title: game.i18n.localize("fantasyd6.name")
 		});
 	}
 
@@ -44,10 +44,10 @@ class ConfigureOpenD6Options extends FormApplication {
 		return {
 			// You can add any number of options here and they will be displayed as checkboxes in the config dialog
 			options: [
-				{ id: 'labels', on: state.labels ?? true, desc: 'starwarsd6.form.labels' },
-				{ id: 'fields', on: state.fields ?? true, desc: 'starwarsd6.form.fields' },
-				{ id: 'deadly', on: state.deadly ?? true, desc: 'starwarsd6.form.deadly' },
-				{ id: 'rules', on: state.rules ?? true, desc: 'starwarsd6.form.rules' }
+				{ id: 'labels', on: state.labels ?? true, desc: 'fantasyd6.form.labels' },
+				{ id: 'fields', on: state.fields ?? true, desc: 'fantasyd6.form.fields' },
+				{ id: 'deadly', on: state.deadly ?? true, desc: 'fantasyd6.form.deadly' },
+				{ id: 'rules', on: state.rules ?? true, desc: 'fantasyd6.form.rules' }
 			]
 		};
 	}
@@ -69,35 +69,35 @@ class ConfigureOpenD6Options extends FormApplication {
 	}
 
 	async updateLabels() {
-		await game.settings.set('od6s', 'customize_fate_points', game.i18n.localize('starwarsd6.customize_fate_points'));
-		await game.settings.set('od6s', 'customize_fate_points_short', game.i18n.localize('starwarsd6.customize_fate_points_short'));
-		await game.settings.set('od6s', 'customize_currency_label', game.i18n.localize('starwarsd6.customize_currency_label'));
-		await game.settings.set('od6s', 'customize_vehicle_toughness', game.i18n.localize('starwarsd6.customize_vehicle_toughness'));
-		await game.settings.set('od6s', 'customize_starship_toughness', game.i18n.localize('starwarsd6.customize_starship_toughness'));
-		await game.settings.set('od6s', 'interstellar_drive_name', game.i18n.localize('starwarsd6.interstellar_drive_name'));
-		await game.settings.set('od6s', 'customize_metaphysics_extranormal', game.i18n.localize('starwarsd6.customize_metaphysics_extranormal'));
-		await game.settings.set('od6s', 'customize_manifestations', game.i18n.localize('starwarsd6.customize_manifestations'));
-		await game.settings.set('od6s', 'customize_manifestation', game.i18n.localize('starwarsd6.customize_manifestation'));
-		await game.settings.set('od6s', 'customize_metaphysics_name_short', game.i18n.localize('starwarsd6.customize_metaphysics_name_short'));
-		await game.settings.set('od6s', 'customize_metaphysics_name', game.i18n.localize('starwarsd6.customize_metaphysics_name'));
-		await game.settings.set('od6s', 'customize_metaphysics_skill_channel', game.i18n.localize('starwarsd6.customize_metaphysics_skill_channel'));
-		await game.settings.set('od6s', 'customize_metaphysics_skill_sense', game.i18n.localize('starwarsd6.customize_metaphysics_skill_sense'));
-		await game.settings.set('od6s', 'customize_metaphysics_skill_transform', game.i18n.localize('starwarsd6.customize_metaphysics_skill_transform'));
-		await game.settings.set('od6s', 'customize_agility_name', game.i18n.localize('starwarsd6.customize_agility_name'));
-		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('starwarsd6.customize_agility_name_short'));
-		await game.settings.set('od6s', 'customize_strength_name_short', game.i18n.localize('starwarsd6.customize_strength_name_short'));
-		await game.settings.set('od6s', 'customize_mechanical_name_short', game.i18n.localize('starwarsd6.customize_mechanical_name_short'));
-		await game.settings.set('od6s', 'customize_knowledge_name_short', game.i18n.localize('starwarsd6.customize_knowledge_name_short'));
-		await game.settings.set('od6s', 'customize_perception_name_short', game.i18n.localize('starwarsd6.customize_perception_name_short'));
-		await game.settings.set('od6s', 'customize_technical_name_short', game.i18n.localize('starwarsd6.customize_technical_name_short'));
-		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('starwarsd6.customize_agility_name_short'));
-		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('starwarsd6.customize_agility_name_short'));
+		await game.settings.set('od6s', 'customize_fate_points', game.i18n.localize('fantasyd6.customize_fate_points'));
+		await game.settings.set('od6s', 'customize_fate_points_short', game.i18n.localize('fantasyd6.customize_fate_points_short'));
+		await game.settings.set('od6s', 'customize_currency_label', game.i18n.localize('fantasyd6.customize_currency_label'));
+		await game.settings.set('od6s', 'customize_vehicle_toughness', game.i18n.localize('fantasyd6.customize_vehicle_toughness'));
+		await game.settings.set('od6s', 'customize_starship_toughness', game.i18n.localize('fantasyd6.customize_starship_toughness'));
+		await game.settings.set('od6s', 'interstellar_drive_name', game.i18n.localize('fantasyd6.interstellar_drive_name'));
+		await game.settings.set('od6s', 'customize_metaphysics_extranormal', game.i18n.localize('fantasyd6.customize_metaphysics_extranormal'));
+		await game.settings.set('od6s', 'customize_manifestations', game.i18n.localize('fantasyd6.customize_manifestations'));
+		await game.settings.set('od6s', 'customize_manifestation', game.i18n.localize('fantasyd6.customize_manifestation'));
+		await game.settings.set('od6s', 'customize_metaphysics_name_short', game.i18n.localize('fantasyd6.customize_metaphysics_name_short'));
+		await game.settings.set('od6s', 'customize_metaphysics_name', game.i18n.localize('fantasyd6.customize_metaphysics_name'));
+		await game.settings.set('od6s', 'customize_metaphysics_skill_channel', game.i18n.localize('fantasyd6.customize_metaphysics_skill_channel'));
+		await game.settings.set('od6s', 'customize_metaphysics_skill_sense', game.i18n.localize('fantasyd6.customize_metaphysics_skill_sense'));
+		await game.settings.set('od6s', 'customize_metaphysics_skill_transform', game.i18n.localize('fantasyd6.customize_metaphysics_skill_transform'));
+		await game.settings.set('od6s', 'customize_agility_name', game.i18n.localize('fantasyd6.customize_agility_name'));
+		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
+		await game.settings.set('od6s', 'customize_strength_name_short', game.i18n.localize('fantasyd6.customize_strength_name_short'));
+		await game.settings.set('od6s', 'customize_mechanical_name_short', game.i18n.localize('fantasyd6.customize_mechanical_name_short'));
+		await game.settings.set('od6s', 'customize_knowledge_name_short', game.i18n.localize('fantasyd6.customize_knowledge_name_short'));
+		await game.settings.set('od6s', 'customize_perception_name_short', game.i18n.localize('fantasyd6.customize_perception_name_short'));
+		await game.settings.set('od6s', 'customize_technical_name_short', game.i18n.localize('fantasyd6.customize_technical_name_short'));
+		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
+		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
 	}
 
 	async updateFields() {
-		await game.settings.set('od6s', 'custom_field_1', game.i18n.localize('starwarsd6.custom_field_1'));
-		await game.settings.set('od6s', 'custom_field_1_short', game.i18n.localize('starwarsd6.custom_field_1_short'));
-		await game.settings.set('od6s', 'custom_field_1_type', game.i18n.localize('starwarsd6.custom_field_1_type'));
+		await game.settings.set('od6s', 'custom_field_1', game.i18n.localize('fantasyd6.custom_field_1'));
+		await game.settings.set('od6s', 'custom_field_1_short', game.i18n.localize('fantasyd6.custom_field_1_short'));
+		await game.settings.set('od6s', 'custom_field_1_type', game.i18n.localize('fantasyd6.custom_field_1_type'));
 		await game.settings.set('od6s', 'custom_field_1_actor_types', 3);
 	}
 
@@ -112,7 +112,7 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'hide_compendia', true);
 		await game.settings.set('od6s', 'bodypoints', 0);
 		await game.settings.set('od6s', 'highhitdamage', false);
-		await game.settings.set('od6s', 'brawl_attribute', game.i18n.localize('starwarsd6.brawl_attribute'));
+		await game.settings.set('od6s', 'brawl_attribute', game.i18n.localize('fantasyd6.brawl_attribute'));
 		await game.settings.set('od6s', 'parry_skills', true);
 		await game.settings.set('od6s', 'reaction_skills', true);
 		await game.settings.set('od6s', 'defense_lock', true);
