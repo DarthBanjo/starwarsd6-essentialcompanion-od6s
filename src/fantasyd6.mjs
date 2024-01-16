@@ -85,13 +85,16 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'customize_metaphysics_skill_transform', game.i18n.localize('fantasyd6.customize_metaphysics_skill_transform'));
 		await game.settings.set('od6s', 'customize_agility_name', game.i18n.localize('fantasyd6.customize_agility_name'));
 		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
+		await game.settings.set('od6s', 'customize_strength_name', game.i18n.localize('fantasyd6.customize_strength_name'));
 		await game.settings.set('od6s', 'customize_strength_name_short', game.i18n.localize('fantasyd6.customize_strength_name_short'));
+		await game.settings.set('od6s', 'customize_mechanical_name', game.i18n.localize('fantasyd6.customize_mechanical_name'));
 		await game.settings.set('od6s', 'customize_mechanical_name_short', game.i18n.localize('fantasyd6.customize_mechanical_name_short'));
+		await game.settings.set('od6s', 'customize_knowledge_name', game.i18n.localize('fantasyd6.customize_knowledge_name'));
 		await game.settings.set('od6s', 'customize_knowledge_name_short', game.i18n.localize('fantasyd6.customize_knowledge_name_short'));
+		await game.settings.set('od6s', 'customize_perception_name', game.i18n.localize('fantasyd6.customize_perception_name'));
 		await game.settings.set('od6s', 'customize_perception_name_short', game.i18n.localize('fantasyd6.customize_perception_name_short'));
+		await game.settings.set('od6s', 'customize_technical_name', game.i18n.localize('fantasyd6.customize_technical_name'));
 		await game.settings.set('od6s', 'customize_technical_name_short', game.i18n.localize('fantasyd6.customize_technical_name_short'));
-		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
-		await game.settings.set('od6s', 'customize_agility_name_short', game.i18n.localize('fantasyd6.customize_agility_name_short'));
 	}
 
 	async updateFields() {
