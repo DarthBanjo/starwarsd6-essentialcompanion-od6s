@@ -1,0 +1,9 @@
+packs/**/*.log
+packs/**/*.old
+packs/**/*.ldb
+packs/**/LOCK
+packs/**/MANIFEST
+packs/**/CURRENT
+packs/**/LOG
+packs/**/MANIFEST-*
+node_modules
