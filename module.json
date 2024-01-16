@@ -81,7 +81,7 @@
 			"path": "./packs/fantasyd6chtemplates.db",
 			"entity": "Item",
 			"type": "Item"
-		},
+		}
 	],
 	"url": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s",
 	"manifest": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/fantasy-adaptation/module.json",
