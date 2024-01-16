@@ -1,13 +1,13 @@
 {
 	"fantasyd6": {
-		"name": "Configure OpenD6 Options",
+		"name": "Change OpenD6 Options",
 		"hint": "Configure the OpenD6 system settings to be specific to Fantasy D6",
 		"form": {
 			"desc": "This is a helper configurator. It will modify the OpenD6 system's settings to follow the Fantasy D6 system's terminology and mechanics. Below are various options for adjusting which mechanics are updated. You can run this configurator any time and it will simply override the previous settings with the new ones.",
 			"cancel": "Cancel",
 			"submit": "Submit",
 			"labels": "Update Labels",
-			"fields": "Change Custom Fields (This adds Darkness Points)",
+			"fields": "Add Custom Fields (This adds Darkness Points)",
 			"deadly": "Deadliness Options (This affects the Health Estimate Module)",
 			"rules": "Change Rules Options"
 		},
@@ -40,6 +40,16 @@
 		"customize_perception_name_short": "PER",
 		"customize_technical_name": "Acumen",
 		"customize_technical_name_short": "ACU",
-		"brawl_attribute": "str"
+		"brawl_attribute": "str",
+		"cost_price": "Show Funds on the actor sheet and use for purchasing.",
+		"health_estimations": [
+			"Dead",
+			"Mortally Wounded",
+			"Incapacitated",
+			"Severely Wounded",
+			"Wounded",
+			"Stunned",
+			"Healthy"
+		]
 	}
 }

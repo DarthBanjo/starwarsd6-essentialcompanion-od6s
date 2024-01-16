@@ -111,7 +111,9 @@ class ConfigureOpenD6Options extends FormApplication {
 	}
 
 	async updateRules() {
-		await game.settings.set('od6s', 'hide_advantages_disadvantages', true);
+		await game.settings.set('od6s', 'stun_damage_increment', false);
+		await game.settings.set('od6s', 'track_stuns', true);
+		await game.settings.set('od6s', 'hide_advantages_disadvantages', false);
 		await game.settings.set('od6s', 'hide_compendia', true);
 		await game.settings.set('od6s', 'bodypoints', 0);
 		await game.settings.set('od6s', 'highhitdamage', false);
@@ -121,10 +123,10 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'defense_lock', true);
 		await game.settings.set('od6s', 'fate_point_round', true);
 		await game.settings.set('od6s', 'fate_point_climactic', true);
-		await game.settings.set('od6s', 'strength_damage', true);
-		await game.settings.set('od6s', 'metaphysics_attribute_optional', true);
+		await game.settings.set('od6s', 'strength_damage', false);
+		await game.settings.set('od6s', 'metaphysics_attribute_optional', false);
 		await game.settings.set('od6s', 'dice_for_scale', true);
-		await game.settings.set('od6s', 'sensors', true);
+		await game.settings.set('od6s', 'sensors', false);
 		await game.settings.set('od6s', 'vehicle_difficulty', true);
 		await game.settings.set('od6s', 'passenger_damage_dice', true);
 		await game.settings.set('od6s', 'show_skill_specialization', true);
@@ -134,8 +136,12 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'random_hit_locations', true);
 		await game.settings.set('od6s', 'pip_per_dice', 3);
 		await game.settings.set('od6s', 'flat_skills', false);
-		await game.settings.set('od6s', 'pip_per_dice', 3);
 	}
+
+	// to-do: add health estimations rename
+	// async updateHealthEstimate() {
+	// 	await game.settings.set('healthEstimate', 'core.estimations', game.i18n.localize('fantasyd6.health_estimations'));
+	// }
 
 
 	/*
