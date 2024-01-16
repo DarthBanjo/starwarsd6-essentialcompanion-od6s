@@ -26,6 +26,16 @@
 					}
 				]
 			}
+		],
+		"requires": [
+			{
+				"id": "healthEstimate",
+				"type": "module",
+				"manifest": "https://github.com/mclemente/healthEstimate/releases/download/31.7.17/module.json",
+				"compatibility": {
+					"verified": "31.7.17"
+				}
+			}
 		]
 	},
 	"languages": [
