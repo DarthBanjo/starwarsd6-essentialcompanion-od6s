@@ -102,6 +102,10 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'custom_field_1_short', game.i18n.localize('fantasyd6.custom_field_1_short'));
 		await game.settings.set('od6s', 'custom_field_1_type', game.i18n.localize('fantasyd6.custom_field_1_type'));
 		await game.settings.set('od6s', 'custom_field_1_actor_types', 3);
+		await game.settings.set('od6s', 'custom_field_2', game.i18n.localize('fantasyd6.custom_field_2'));
+		await game.settings.set('od6s', 'custom_field_2_short', game.i18n.localize('fantasyd6.custom_field_2_short'));
+		await game.settings.set('od6s', 'custom_field_2_type', game.i18n.localize('fantasyd6.custom_field_2_type'));
+		await game.settings.set('od6s', 'custom_field_2_actor_types', 3);
 	}
 
 	async updateDeadly() {
