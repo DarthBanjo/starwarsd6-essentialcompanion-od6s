@@ -41,8 +41,8 @@
 		"customize_knowledge_name_short": "KNO",
 		"customize_perception_name": "Perception",
 		"customize_perception_name_short": "PER",
-		"customize_technical_name": "Acumen",
-		"customize_technical_name_short": "ACU",
+		"customize_technical_name": "Talent",
+		"customize_technical_name_short": "TAL",
 		"brawl_attribute": "str",
 		"cost_price": "Show Funds on the actor sheet and use for purchasing.",
 		"health_estimations": [
