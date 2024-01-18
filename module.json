@@ -65,6 +65,13 @@
 			"type": "Item"
 		},
 		{
+			"name": "module-swskills",
+			"label": "StarWars D6 Skills",
+			"path": "./packs/swskills.db",
+			"entity": "Item",
+			"type": "Item"
+		},
+		{
 			"name": "module-fantasyadvskills",
 			"label": "Fantasy D6 Advanced Skills",
 			"path": "./packs/fantasyadvskills.db",
@@ -72,26 +79,33 @@
 			"type": "Item"
 		},
 		{
-			"name": "module-fantasyspells",
-			"label": "Fantasy D6 Spells",
-			"path": "./packs/fantasyspells.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "module-fantasyweaps",
-			"label": "Fantasy D6 Weapons",
-			"path": "./packs/fantasyweaps.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "module-fantasyd6chtemplates",
-			"label": "Fantasy D6 Character Templates",
-			"path": "./packs/fantasyd6chtemplates.db",
+			"name": "module-swadvskills",
+			"label": "Star Wars D6 Advanced Skills",
+			"path": "./packs/swadvskills.db",
 			"entity": "Item",
 			"type": "Item"
 		}
+		// {
+		// 	"name": "module-fantasyspells",
+		// 	"label": "Fantasy D6 Spells",
+		// 	"path": "./packs/fantasyspells.db",
+		// 	"entity": "Item",
+		// 	"type": "Item"
+		// },
+		// {
+		// 	"name": "module-fantasyweaps",
+		// 	"label": "Fantasy D6 Weapons",
+		// 	"path": "./packs/fantasyweaps.db",
+		// 	"entity": "Item",
+		// 	"type": "Item"
+		// },
+		// {
+		// 	"name": "module-fantasyd6chtemplates",
+		// 	"label": "Fantasy D6 Character Templates",
+		// 	"path": "./packs/fantasyd6chtemplates.db",
+		// 	"entity": "Item",
+		// 	"type": "Item"
+		// }
 	],
 	"url": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s",
 	"manifest": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/fantasy-adaptation/module.json",
