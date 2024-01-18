@@ -1,0 +1,38 @@
+{
+  "name": "Herbs",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_firstaid.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Species of patient &mdash; </span><span class=\"fontstyle0\">humans, Ewoks, Wookiees</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">First aid </span><span class=\"fontstyle2\">reflects a character&rsquo;s ability to perform emergency life saving procedures in the field. For rules on the use of </span><span class=\"fontstyle0\">first aid</span><span class=\"fontstyle2\">, see &ldquo;Combat and Injuries.&rdquo;</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "ownership": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3,
+    "kQ2pYC62fH3s0oaa": 3
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.8.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705614795454,
+    "modifiedTime": 1705617819630,
+    "lastModifiedBy": "kQ2pYC62fH3s0oaa"
+  },
+  "_id": "MpIQQNp0yQ4qLpcu",
+  "sort": 0,
+  "_key": "!items!MpIQQNp0yQ4qLpcu"
+}
