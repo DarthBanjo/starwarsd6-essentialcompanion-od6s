@@ -2,7 +2,7 @@
 	"id": "fantasyd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Fantasy D6 on OpenD6 Space",
 	"description": "A collection of Fantasy Roleplaying Game content to facilitate turning an OpenD6 Space game into a Fantasy D6 game.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11.300",
@@ -197,6 +197,6 @@
 		}
 	],
 	"url": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s",
-	"manifest": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/fantasy-adaptation/module.json",
-	"download": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s/archive/refs/tags/beta-0.1.1.zip"
+	"manifest": "https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/main/module.json",
+	"download": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s/archive/refs/tags/beta-0.2.0.zip"
 }
