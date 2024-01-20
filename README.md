@@ -1,5 +1,7 @@
 # The Essential Companion to D6 Fantasy on OpenD6 Space for FoundryVTT
 
+<p align="center"><img src="https://raw.githubusercontent.com/SogeMoge/fantasyd6-essentialcompanion-od6s/main/art/FFVTT.png" alt="Foundry and D6 Fantasy logo" width="450"/></p>
+
 This is a Foundry VTT module that adds D6 Fantasy Roleplaying Game content to an OpenD6 Space System game. It is based on Star Wars D6 by West End Games, an older system, out of print, and freely available And community REUP edition of rules. This is not a full game system--it relies on the OpenD6 Space System. (which is also free and released under OpenD6 OGL) in Foundry Virtual Tabletop to work properly.
 
 This is a fan-compiled content module based on the fan-produced _Star Wars: Revised, Expanded and Updated_ and _D6 Fantasy_ rulebooks. Module incorporates several homebrew desisions based on love for REUP rule set and desire to use it in Fantasy setting.
@@ -33,7 +35,7 @@ This module contains compendium packs for the following Star Wars D6 content:
 
 #### ⚖️ Regarding Graphics:
 
-These compendium packs contain icons for various skills and force abilities. The **skills** and **force power** icons are graphics created by DarthBanjo. The aurebesh font made by Pixel Saga were used on some of the graphics. They are Shareware Fonts are free to use for personal, non-commercial purposes. Most of the icons come from the Noun Project, using an Unlimited Pro Subcription. Icons downloaded with this subscription allow for the use of Noun Project icons royalty-free and without attribution.
+These compendium packs contain icons for various skills, spells and items. Most of the **skills** icons come from [https://game-icons.net/](https://game-icons.net/) under CC BY 3.0.
 
 For some gear and other items, Creative Commons content has been used. Actor tokens and other Star Wars graphics all make Fair Use of **out of print and freely available** West End Games content. West End Games no longer exists.
 [All the attributions for Creative Commons and Fair Use content may be found here.](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/attributions.md)
