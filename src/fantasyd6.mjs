@@ -21,6 +21,9 @@ Hooks.on('init', () => {
 		type: Object,
 		default: {}
 	});
+
+	// Re-init pack folders, since they're only instantiated once 
+	game.settings.set("core", "compendiumConfiguration", {});
 });
 
 

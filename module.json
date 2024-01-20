@@ -62,8 +62,9 @@
 	"packs": [
 		{
 			"name": "fantasy-d6-skills",
-			"label": "Fantasy D6 Skills",
+			"label": "Skills",
 			"path": "packs/skills",
+			"packFolder": "",
 			"type": "Item",
 			"system": "od6s",
 			"ownership": {
@@ -74,7 +75,7 @@
 		},
 		{
 			"name": "fantasy-d6-advskills",
-			"label": "Fantasy D6 Advanced Skills",
+			"label": "Advanced Skills",
 			"path": "packs/advskills",
 			"type": "Item",
 			"system": "od6s",
@@ -85,8 +86,20 @@
 			"flags": {}
 		},
 		{
+			"name": "fantasy-d6-metaskills",
+			"label": "Metaphysics Skills",
+			"path": "packs/metaskills",
+			"type": "Item",
+			"system": "od6s",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
 			"name": "fantasy-d6-spells",
-			"label": "Fantasy D6 Spells",
+			"label": "Spells",
 			"path": "packs/spells",
 			"type": "Item",
 			"system": "od6s",
@@ -97,8 +110,20 @@
 			"flags": {}
 		},
 		{
+			"name": "fantasy-d6-miracles",
+			"label": "Miracles",
+			"path": "packs/miracles",
+			"type": "Item",
+			"system": "od6s",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
 			"name": "fantasy-d6-weapons",
-			"label": "Fantasy D6 Weapons",
+			"label": "Weapons",
 			"path": "packs/weapons",
 			"type": "Item",
 			"system": "od6s",
@@ -110,7 +135,7 @@
 		},
 		{
 			"name": "fantasy-d6-armor",
-			"label": "Fantasy D6 Armor",
+			"label": "Armor",
 			"path": "packs/armor",
 			"type": "Item",
 			"system": "od6s",
@@ -122,7 +147,7 @@
 		},
 		{
 			"name": "fantasy-d6-chartemplates",
-			"label": "Fantasy D6 Character Templates",
+			"label": "Character Templates",
 			"path": "packs/chartemplates",
 			"type": "Item",
 			"system": "od6s",
@@ -131,6 +156,44 @@
 				"ASSISTANT": "OWNER"
 			},
 			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Skills",
+			"sorting": "a",
+			"color": "#5463d9",
+			"packs": [
+				"fantasy-d6-skills",
+				"fantasy-d6-advskills",
+				"fantasy-d6-metaskills"
+			]
+		},
+		{
+			"name": "Equipment",
+			"sorting": "a",
+			"color": "#dd3636",
+			"packs": [
+				"fantasy-d6-armor",
+				"fantasy-d6-weapons"
+			]
+		},
+		{
+			"name": "Templates",
+			"sorting": "a",
+			"color": "#d6ab1f",
+			"packs": [
+				"fantasy-d6-chartemplates"
+			]
+		},
+		{
+			"name": "Paranormal powers",
+			"sorting": "a",
+			"color": "#923399",
+			"packs": [
+				"fantasy-d6-spells",
+				"fantasy-d6-miracles"
+			]
 		}
 	],
 	"url": "https://github.com/SogeMoge/fantasyd6-essentialcompanion-od6s",
