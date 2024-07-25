@@ -1,16 +1,33 @@
-# The Essential Companion to Star Wars D6 on OpenD6 Space for FoundryVTT
+# The Essential Companion to Star Wars D6 on OpenD6 Space for Foundry Virtual Tabletop
 
 <p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/SWFVTT.png" alt="DarthBanjo's Cool Foundry and Star Wars Logo" width="300"/></p>
 
-This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print, and freely available.  This is not a full game system--it relies on the OpenD6 Space System. (which is also free and released under OpenD6 OGL) in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the fan-produced *Star Wars: Revised, Expanded and Updated* rulebook.
+- [The Essential Companion to Star Wars D6 on OpenD6 Space for Foundry Virtual Tabletop](#the-essential-companion-to-star-wars-d6-on-opend6-space-for-foundry-virtual-tabletop)
+  - [Star Wars D6 content for OpenD6 Space on Foundry Virtual Tabletop](#star-wars-d6-content-for-opend6-space-on-foundry-virtual-tabletop)
+  - [Manifest URL](#manifest-url)
+  - [One-click Helper Configurator](#one-click-helper-configurator)
+  - [Want to Learn more?](#want-to-learn-more)
+  - [✨ Contents:](#-contents)
+  - [👨‍⚖️ Disclaimers](#️-disclaimers)
+      - [⚖️ Regarding Graphics:](#️-regarding-graphics)
+      - [⚖️ Regarding Content:](#️-regarding-content)
 
-> Use this Manifest Link: https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json
 
-## New! OpenD6 Space to Star Wars D6 Configurator!
-This module now includes options to apply Star Wars D6 2nd Edition labels and rules options to an OpenD6 Space game with a single click in the module settings. This eliminates much of the set up for a new world in FoundryVTT. It applies [these settings](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) to your world. After clicking the configuration button, you may go in and change additional settings manually to set your game to 1E, or 2E REUP.
+## Star Wars D6 content for OpenD6 Space on Foundry Virtual Tabletop
+This is a Foundry VTT module that adds Star Wars D6 Roleplaying Game content to an OpenD6 Space System game. Star Wars D6 by West End Games is an older system, out of print, and freely available.  This is not a full game system, but relies on the OpenD6 Space System, (which is also free and released under OpenD6 OGL) in Foundry Virtual Tabletop to work properly. This is a fan-compiled content module based on the fan-produced *Star Wars: Revised, Expanded and Updated* rulebook.
+
+## Manifest URL
+You can install any package in Foundry VTT by providing a direct link to its Manifest URL. This is entered at the bottom of the **Install Module** window.
+```
+https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json
+```
+
+## One-click Helper Configurator
+This module now includes options to apply Star Wars D6 2nd Edition labels and rules options to an OpenD6 Space game with a single click in the module settings. This eliminates much of the set up for a new world in FoundryVTT. It applies [these settings](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) to your world. After clicking the configuration button, you may go in and change additional settings manually to set your game to your liking.
 <p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/configurator.png" alt="Image of the Configurator dialog box" width="450"/></p>
 
-## Video Tutorial: Setting Up Star Wars D6 on FoundryVTT
+## Want to Learn more? 
+Here's a link to a video tutorial for setting Up Star Wars D6 on FoundryVTT. I recorded it before the automatic one-click configuration settings.
 [![Youtube Tutorial: Setting Up Star Wars D6 on FoundryVTT](https://img.youtube.com/vi/OAaYCGtgBaw/0.jpg)](https://www.youtube.com/watch?v=OAaYCGtgBaw)
 
 ## ✨ Contents:
