@@ -2,10 +2,10 @@
 	"name": "starwarsd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
 	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
-	"version": "12.0.1",
+	"version": "12.0.2",
   	"compatibility": {
     		"minimum": "10",
-    		"verified": "11.300",
+    		"verified": "12.330",
 		"maximum": "12"
   	},
 	"authors": [
