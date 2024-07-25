@@ -11,6 +11,7 @@
   - [👨‍⚖️ Disclaimers](#️-disclaimers)
       - [⚖️ Regarding Graphics:](#️-regarding-graphics)
       - [⚖️ Regarding Content:](#️-regarding-content)
+  - [Special thanks](#special-thanks)
 
 
 ## Star Wars D6 content for OpenD6 Space on Foundry Virtual Tabletop
@@ -23,7 +24,8 @@ https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/
 ```
 
 ## One-click Helper Configurator
-This module now includes options to apply Star Wars D6 2nd Edition labels and rules options to an OpenD6 Space game with a single click in the module settings. This eliminates much of the set up for a new world in FoundryVTT. It applies [these settings](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) to your world. After clicking the configuration button, you may go in and change additional settings manually to set your game to your liking.
+This module now includes options to apply Star Wars D6 2nd Edition labels and rules options to an OpenD6 Space game with a single click in the module settings. This eliminates much of the set up for a new world in FoundryVTT. It applies [these settings](https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/blob/main/starwarsconfigchecklist.md) to your world. After clicking the configuration button, you may go in and change additional settings manually to set your game to your liking.  
+
 <p align="center"><img src="https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/art/configurator.png" alt="Image of the Configurator dialog box" width="450"/></p>
 
 ## Want to Learn more? 
@@ -71,8 +73,11 @@ This is a personal FoundryVTT Module, not intended for sale or profit. It's a fa
 
 Thanks to Lucasfilm, Disney, West End Games, Womp Rats Press, D6 Holocron, Rancorpit, the Star Wars RPG community, the Star Wars D6 Discord server, seumas for their work on the OpenD6 Space System for FoundryVTT, and FoundryVTT's developers themselves. 
 
-Special thanks go out to:
+## Special thanks
+These folks contributed in some special way or another.
 - Seumas: https://gitlab.com/vtt2/opend6-space for their work on the OpenD6 Space system.
 - Algnc: https://github.com/algnc/od6s-star-wars for their work on the West End Games-style character sheets.
 - Flamewave000: https://github.com/flamewave000 for their work on the configurator.
 - Mcbobbo: https://github.com/mcbobbo for supplying text for D6 Holocron Character templates.
+- Grumpkin: For doing the data entry on many of the species templates (Not yet included but he still gets a thanks.)
+- All the folks at the OpenD6 Space on FoundryVTT Discord Server
